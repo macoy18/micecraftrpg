@@ -196,3 +196,20 @@
 [30Apr2025 00:58:51.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuisN lost connection: Disconnected
 [30Apr2025 00:58:51.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN left the game
 [30Apr2025 00:58:51.349] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LuisN
+[30Apr2025 00:59:29.202] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuisN[/127.136.99.52:48071] logged in with entity id 28687 at (-343.3489391909298, 56.0, -179.05824937932505)
+[30Apr2025 00:59:29.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN joined the game
+[30Apr2025 00:59:29.389] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LuisN (18)
+[30Apr2025 00:59:29.390] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LuisN
+[30Apr2025 01:00:01.570] [ForkJoinPool.commonPool-worker-26/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[30Apr2025 01:00:01.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Macoy18[/127.250.102.171:53005] logged in with entity id 29337 at (-162.69999998807907, 35.0, -79.30000001192093)
+[30Apr2025 01:00:01.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 joined the game
+[30Apr2025 01:00:01.874] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Macoy18 (18)
+[30Apr2025 01:00:01.874] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Macoy18
+[30Apr2025 01:00:06.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> macopy
+[30Apr2025 01:00:15.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> q
+[30Apr2025 01:03:04.828] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=109, y=-40, z=-74}
+[30Apr2025 01:03:04.829] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=111, y=-40, z=-74}
+[30Apr2025 01:05:40.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> hay mochuilla?
+[30Apr2025 01:05:44.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> si
+[30Apr2025 01:05:45.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> sio
+[30Apr2025 01:06:11.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> busca con el jei
