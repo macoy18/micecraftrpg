@@ -348,3 +348,9 @@
 [30Apr2025 01:39:38.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> si mate un hechicero esqueleto
 [30Apr2025 01:40:09.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> tu tampoco tienes
 [30Apr2025 01:40:30.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> el amanecer se ve bello
+[30Apr2025 01:51:59.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> nieves duerme
+[30Apr2025 01:52:19.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> yo ya vengo voy hacerme cena
+[30Apr2025 01:52:19.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> o salte
+[30Apr2025 01:52:21.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuisN lost connection: Disconnected
+[30Apr2025 01:52:21.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN left the game
+[30Apr2025 01:52:21.449] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LuisN

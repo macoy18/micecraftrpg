@@ -11379,3 +11379,16 @@ com.google.gson.JsonSyntaxException: Missing entries
 [30Apr2025 01:40:30.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> el amanecer se ve bello
 [30Apr2025 01:44:29.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Apr2025 01:44:29.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 01:49:29.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 01:49:29.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 01:51:59.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> nieves duerme
+[30Apr2025 01:52:19.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> yo ya vengo voy hacerme cena
+[30Apr2025 01:52:19.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> o salte
+[30Apr2025 01:52:21.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuisN lost connection: Disconnected
+[30Apr2025 01:52:21.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN left the game
+[30Apr2025 01:52:21.449] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of LuisN
+[30Apr2025 01:52:21.449] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LuisN
+[30Apr2025 01:54:29.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 01:54:29.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 01:59:29.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 01:59:29.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
