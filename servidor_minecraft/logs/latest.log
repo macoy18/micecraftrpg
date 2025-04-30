@@ -354,3 +354,17 @@
 [30Apr2025 01:52:21.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuisN lost connection: Disconnected
 [30Apr2025 01:52:21.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN left the game
 [30Apr2025 01:52:21.449] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LuisN
+[30Apr2025 02:35:19.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macoy18 lost connection: Disconnected
+[30Apr2025 02:35:19.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 left the game
+[30Apr2025 02:35:19.244] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
+[30Apr2025 02:36:45.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Apr2025 02:36:45.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Apr2025 02:36:45.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Apr2025 02:36:45.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Apr2025 02:36:45.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Apr2025 02:36:45.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Apr2025 02:36:45.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Apr2025 02:36:45.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Apr2025 02:36:45.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Apr2025 02:36:45.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Apr2025 02:36:45.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

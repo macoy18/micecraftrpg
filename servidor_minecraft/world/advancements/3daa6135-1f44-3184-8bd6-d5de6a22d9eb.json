@@ -1675,15 +1675,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:windswept_hills": "2025-04-30 02:29:38 +0000",
       "minecraft:beach": "2025-04-30 00:22:52 +0000",
       "minecraft:dark_forest": "2025-04-30 00:17:39 +0000",
       "minecraft:river": "2025-04-29 23:31:15 +0000",
       "minecraft:stony_shore": "2025-04-30 00:13:57 +0000",
       "minecraft:swamp": "2025-04-30 02:21:53 +0000",
+      "minecraft:cold_ocean": "2025-04-30 02:32:27 +0000",
       "minecraft:forest": "2025-04-29 23:26:54 +0000",
       "minecraft:jungle": "2025-04-30 00:05:46 +0000",
       "minecraft:ocean": "2025-04-30 00:24:10 +0000",
+      "minecraft:windswept_savanna": "2025-04-30 02:31:10 +0000",
       "minecraft:flower_forest": "2025-04-29 23:33:30 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-04-30 02:33:03 +0000",
       "minecraft:plains": "2025-04-29 23:30:59 +0000"
     },
     "done": false
@@ -2930,6 +2934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-30 02:32:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-04-30 02:15:41 +0000"
@@ -3080,6 +3090,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-30 02:32:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-30 02:07:20 +0000"
@@ -3101,6 +3117,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-30 02:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-30 02:32:27 +0000"
     },
     "done": true
   },
