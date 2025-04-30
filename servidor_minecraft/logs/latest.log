@@ -213,3 +213,138 @@
 [30Apr2025 01:05:44.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> si
 [30Apr2025 01:05:45.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> sio
 [30Apr2025 01:06:11.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> busca con el jei
+[30Apr2025 01:09:09.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> vayan salienod
+[30Apr2025 01:09:11.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> o mimineod
+[30Apr2025 01:09:14.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuisN lost connection: Timed out
+[30Apr2025 01:09:14.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN left the game
+[30Apr2025 01:09:14.967] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LuisN
+[30Apr2025 01:09:18.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> perate
+[30Apr2025 01:09:20.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> salç
+[30Apr2025 01:09:21.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> sal
+[30Apr2025 01:09:22.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> sal
+[30Apr2025 01:09:22.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> sal
+[30Apr2025 01:09:23.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> sal
+[30Apr2025 01:09:23.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> asl
+[30Apr2025 01:09:24.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> aslas
+[30Apr2025 01:09:24.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> lasl
+[30Apr2025 01:09:24.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> asl
+[30Apr2025 01:09:24.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> asl
+[30Apr2025 01:09:25.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> asl
+[30Apr2025 01:09:25.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> la
+[30Apr2025 01:09:25.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> sals
+[30Apr2025 01:09:26.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> aslas
+[30Apr2025 01:09:26.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> as
+[30Apr2025 01:09:26.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> asasl
+[30Apr2025 01:09:27.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> aslaal
+[30Apr2025 01:09:27.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AdalSpider lost connection: Kicked for spamming
+[30Apr2025 01:09:27.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
+[30Apr2025 01:09:27.453] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
+[30Apr2025 01:09:29.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> es a las 6:32 que se puede dormir
+[30Apr2025 01:09:38.451] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuisN[/127.136.99.52:34283] logged in with entity id 34910 at (-261.20049350753493, 64.5625, -237.22741689428094)
+[30Apr2025 01:09:38.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN joined the game
+[30Apr2025 01:09:38.634] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LuisN (18)
+[30Apr2025 01:09:38.635] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LuisN
+[30Apr2025 01:09:43.004] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@13d376cc[id=<null>,name=AdalSpider,properties={},legacy=false] (/127.201.109.144:35589) lost connection: Disconnected
+[30Apr2025 01:09:51.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 has made the advancement [Acquire Hardware]
+[30Apr2025 01:09:53.304] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AdalSpider[/127.201.109.144:50349] logged in with entity id 35101 at (839.5, 75.0, -1086.5)
+[30Apr2025 01:09:53.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider joined the game
+[30Apr2025 01:09:54.007] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AdalSpider (18)
+[30Apr2025 01:09:54.007] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AdalSpider
+[30Apr2025 01:10:01.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> a
+[30Apr2025 01:10:05.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 has made the advancement [Isn't It Iron Pick]
+[30Apr2025 01:10:06.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> a
+[30Apr2025 01:10:40.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [Not Today, Thank You]
+[30Apr2025 01:10:51.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [Monster Hunter]
+[30Apr2025 01:11:41.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 has made the advancement [A Seedy Place]
+[30Apr2025 01:16:26.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> q bello este server
+[30Apr2025 01:16:33.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> epa
+[30Apr2025 01:16:38.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> mejor q el q pagamos jaajja
+[30Apr2025 01:16:40.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> q monstruos han visto
+[30Apr2025 01:16:51.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> cuanta corazones quitar
+[30Apr2025 01:16:57.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> un caballero gris gigante
+[30Apr2025 01:16:58.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [Suit Up]
+[30Apr2025 01:17:12.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> ay uno q te estunea y tu no le haces daño q lleva un garrote
+[30Apr2025 01:17:19.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> nc preguntale a nieves que etuvo con un zombie gigante
+[30Apr2025 01:17:30.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> las cuevas q tal
+[30Apr2025 01:17:37.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> y otro q es un lobo gigante de 200 de vida
+[30Apr2025 01:17:42.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> hay 2 o 3 biomas de cueva
+[30Apr2025 01:17:48.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> duras las cuevas
+[30Apr2025 01:18:11.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> a yo no e conseguido ninguna de esas
+[30Apr2025 01:18:54.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> lo que mas me gusta es los sonidos
+[30Apr2025 01:18:59.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> el eco
+[30Apr2025 01:19:01.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> bello
+[30Apr2025 01:19:25.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ,me hace sentir m,as tension e n cueva
+[30Apr2025 01:19:58.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> q
+[30Apr2025 01:20:05.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> no otra vez
+[30Apr2025 01:20:07.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> nc ya me cage
+[30Apr2025 01:20:07.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> q es eso
+[30Apr2025 01:20:11.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> ni idea
+[30Apr2025 01:20:30.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> en el mundo ofline solo llegue a esta advertensia
+[30Apr2025 01:20:44.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> pronto lo averiguaremos
+[30Apr2025 01:20:51.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> sapo
+[30Apr2025 01:20:53.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> en fin voy rol arquero
+[30Apr2025 01:20:58.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> duermna
+[30Apr2025 01:21:12.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> zzz
+[30Apr2025 01:21:16.403] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuisN lost connection: Disconnected
+[30Apr2025 01:21:16.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN left the game
+[30Apr2025 01:21:16.404] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LuisN
+[30Apr2025 01:22:02.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuisN[/127.136.99.52:36491] logged in with entity id 40745 at (-113.66667032938325, -6.0, -314.5849840762946)
+[30Apr2025 01:22:02.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN joined the game
+[30Apr2025 01:22:02.865] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LuisN (18)
+[30Apr2025 01:22:02.865] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LuisN
+[30Apr2025 01:22:07.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> adal que tal vas con el sahder?
+[30Apr2025 01:23:26.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [Isn't It Iron Pick]
+[30Apr2025 01:23:59.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN has reached the goal [Fighting Nightmares]
+[30Apr2025 01:24:01.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN has made the advancement [Dark Metallurgy]
+[30Apr2025 01:24:06.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> necesito hilo pasa hacerme la mochila
+[30Apr2025 01:24:08.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> wopas
+[30Apr2025 01:24:11.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> joda muerto
+[30Apr2025 01:24:53.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> ese mod me busca puro a mi
+[30Apr2025 01:29:16.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> tengo miedo
+[30Apr2025 01:29:37.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> basura adal, tu no le temes a ningun hombre
+[30Apr2025 01:32:24.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macoy18 lost connection: Disconnected
+[30Apr2025 01:32:24.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 left the game
+[30Apr2025 01:32:24.606] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
+[30Apr2025 01:33:17.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] iba a dormir pero me aparecieron unos ojos brillantes con sonidos de cadena, y venia a mi
+[30Apr2025 01:33:26.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me cague bien feo
+[30Apr2025 01:33:41.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> y yo
+[30Apr2025 01:33:47.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ammmmmmmmmmmm
+[30Apr2025 01:33:50.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> macoy
+[30Apr2025 01:33:57.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> espero q hayas balanceado
+[30Apr2025 01:34:00.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] dime
+[30Apr2025 01:34:00.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> los enemigos
+[30Apr2025 01:34:18.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hay un loco con 100 puntos de vida
+[30Apr2025 01:34:25.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> osea
+[30Apr2025 01:34:29.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] parece una carpa
+[30Apr2025 01:34:30.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> armdauras y espadas buenas
+[30Apr2025 01:34:40.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] si hay
+[30Apr2025 01:34:46.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] revisa el jei
+[30Apr2025 01:35:08.601] [ForkJoinPool.commonPool-worker-36/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[30Apr2025 01:35:08.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Macoy18[/127.250.102.171:42867] logged in with entity id 46332 at (-50.9024847200595, 63.0, -58.474874423362955)
+[30Apr2025 01:35:08.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 joined the game
+[30Apr2025 01:35:08.958] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Macoy18 (18)
+[30Apr2025 01:35:08.958] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Macoy18
+[30Apr2025 01:35:23.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> porque no durmieron
+[30Apr2025 01:35:32.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> dijiste lo de los ojos
+[30Apr2025 01:35:49.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> por eso fue que me desconecte
+[30Apr2025 01:36:05.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> hay un zombie tipo the last of us con 40 puntos de vida
+[30Apr2025 01:36:11.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN has made the advancement [Life turned out to be a comedy]
+[30Apr2025 01:36:32.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> adal recuerdas los bebes esqueletos?
+[30Apr2025 01:36:36.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> se
+[30Apr2025 01:36:43.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> weno que crees
+[30Apr2025 01:36:49.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> si
+[30Apr2025 01:36:51.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ya lo vi
+[30Apr2025 01:37:08.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> fallen chao knight
+[30Apr2025 01:37:42.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ya bemgp
+[30Apr2025 01:37:44.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AdalSpider lost connection: Disconnected
+[30Apr2025 01:37:44.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
+[30Apr2025 01:37:44.762] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
+[30Apr2025 01:38:15.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN has made the advancement [Junior Summoner]
+[30Apr2025 01:38:23.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> ahmmm
+[30Apr2025 01:38:37.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> hoy ando todos contra mi
+[30Apr2025 01:39:02.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> yo no puedo hacer de esas
+[30Apr2025 01:39:06.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> no tengo armadura
+[30Apr2025 01:39:26.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> como q armadura
+[30Apr2025 01:39:38.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> si mate un hechicero esqueleto
+[30Apr2025 01:40:09.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> tu tampoco tienes
+[30Apr2025 01:40:30.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> el amanecer se ve bello
