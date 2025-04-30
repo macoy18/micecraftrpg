@@ -1619,6 +1619,7 @@
       "minecraft:river": "2025-04-29 23:34:45 +0000",
       "minecraft:forest": "2025-04-29 23:24:38 +0000",
       "minecraft:flower_forest": "2025-04-29 23:35:03 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-30 00:56:37 +0000",
       "minecraft:plains": "2025-04-29 23:26:39 +0000"
     },
     "done": false
@@ -2240,6 +2241,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "mystic_grove": "2025-04-30 00:56:13 +0000",
       "orchard": "2025-04-30 00:30:32 +0000",
       "redwood_forest": "2025-04-30 00:35:08 +0000",
       "pasture": "2025-04-29 23:36:07 +0000",
@@ -3181,9 +3183,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-04-30 00:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-04-30 00:48:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/cyan_dye_from_glowflower": {
+    "criteria": {
+      "has_glowflower": "2025-04-30 00:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-04-30 00:58:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-04-30 00:39:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2025-04-30 00:56:30 +0000"
     },
     "done": true
   },
@@ -3205,6 +3237,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-04-30 00:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-04-30 00:48:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-04-30 00:33:33 +0000"
@@ -3217,6 +3261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-30 00:48:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-04-30 00:39:22 +0000"
@@ -3226,6 +3276,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-04-30 00:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-30 00:46:46 +0000"
     },
     "done": true
   },
