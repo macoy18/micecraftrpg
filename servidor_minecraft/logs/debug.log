@@ -5431,3 +5431,47 @@ com.google.gson.JsonSyntaxException: Missing entries
 [30Apr2025 17:55:51.239] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jeronhhhhhh
 [30Apr2025 17:55:56.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] si no estan en peligro reseteo
 [30Apr2025 17:55:56.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> reiniicar q
+[30Apr2025 17:56:14.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] osea pa que cargue el voicechat
+[30Apr2025 17:56:24.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] prender y apagar
+[30Apr2025 17:56:35.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 17:56:35.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 17:56:50.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] estan de acuerdo
+[30Apr2025 17:56:54.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ya va
+[30Apr2025 17:56:54.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> si
+[30Apr2025 17:56:57.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> reinicia
+[30Apr2025 17:56:59.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> ya salimos
+[30Apr2025 17:56:59.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [Life turned out to be a comedy]
+[30Apr2025 17:57:01.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Apr2025 17:57:01.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: para ver que tal se escucha en cuevas tambien<--[HERE]
+[30Apr2025 17:57:20.177] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kristd17 lost connection: Disconnected
+[30Apr2025 17:57:20.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 left the game
+[30Apr2025 17:57:20.178] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of kristd17
+[30Apr2025 17:57:20.178] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kristd17
+[30Apr2025 17:57:22.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] tambien pa ver que tal se escucha en cuevas
+[30Apr2025 17:57:24.078] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thunder2032 lost connection: Disconnected
+[30Apr2025 17:57:24.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thunder2032 left the game
+[30Apr2025 17:57:24.078] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Thunder2032
+[30Apr2025 17:57:24.078] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Thunder2032
+[30Apr2025 17:57:28.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> aja dale
+[30Apr2025 17:57:29.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AdalSpider lost connection: Disconnected
+[30Apr2025 17:57:29.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
+[30Apr2025 17:57:29.672] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of AdalSpider
+[30Apr2025 17:57:29.672] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
+[30Apr2025 17:57:37.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuisN lost connection: Disconnected
+[30Apr2025 17:57:37.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN left the game
+[30Apr2025 17:57:37.117] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of LuisN
+[30Apr2025 17:57:37.117] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LuisN
+[30Apr2025 17:57:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Apr2025 17:57:40.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Apr2025 17:57:40.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Apr2025 17:57:40.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Apr2025 17:57:40.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Apr2025 17:57:40.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Apr2025 17:57:40.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Apr2025 17:57:40.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 17:57:40.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 17:57:40.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Apr2025 17:57:40.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Apr2025 17:57:40.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Apr2025 17:57:40.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Apr2025 17:57:40.629] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
