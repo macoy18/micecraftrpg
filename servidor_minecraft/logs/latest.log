@@ -184,3 +184,55 @@ com.google.gson.JsonSyntaxException: Missing entries
 [30Apr2025 17:45:12.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> ok
 [30Apr2025 17:45:31.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 has made the advancement [Stone Age]
 [30Apr2025 17:45:35.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] jeronimo en el menu de pausa arriba a la derecha presionas
+[30Apr2025 17:46:13.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thunder2032 has made the advancement [Stone Age]
+[30Apr2025 17:46:48.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> mo se me conecta al cgat de voz
+[30Apr2025 17:47:00.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh has made the advancement [Stone Age]
+[30Apr2025 17:47:05.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] despues en el de configuraciones, el primero a la izquierda cambias el hud
+[30Apr2025 17:47:18.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] debo reiniciar
+[30Apr2025 17:47:25.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] que horita fue que lo acomode
+[30Apr2025 17:47:52.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 has made the advancement [Getting an Upgrade]
+[30Apr2025 17:48:06.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> ahora
+[30Apr2025 17:48:31.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> macoy
+[30Apr2025 17:48:38.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> no cargan las animaciones
+[30Apr2025 17:48:38.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh has made the advancement [Monster Hunter]
+[30Apr2025 17:48:48.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh has made the advancement [Getting an Upgrade]
+[30Apr2025 17:49:05.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thunder2032 has made the advancement [Getting an Upgrade]
+[30Apr2025 17:50:01.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh has made the advancement [Dark Metallurgy]
+[30Apr2025 17:50:16.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh has made the advancement [Sweet Dreams]
+[30Apr2025 17:50:29.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh has made the advancement [Acquire Hardware]
+[30Apr2025 17:50:32.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh has made the advancement [Isn't It Iron Pick]
+[30Apr2025 17:50:33.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> mimir?
+[30Apr2025 17:52:13.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] como que no cargan las animaciones?
+[30Apr2025 17:52:20.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> las de combate
+[30Apr2025 17:52:29.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> a mi is
+[30Apr2025 17:52:31.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> si
+[30Apr2025 17:52:37.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] xd
+[30Apr2025 17:52:45.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] el error eres tu kris
+[30Apr2025 17:54:04.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AdalSpider[/127.201.109.144:37819] logged in with entity id 3575 at (698.3000000119209, 16.0, -845.4584390103347)
+[30Apr2025 17:54:04.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider joined the game
+[30Apr2025 17:54:05.853] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[30Apr2025 17:54:05.855] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[30Apr2025 17:54:05.856] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 12 cooked_beef
+[30Apr2025 17:54:05.856] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 torch
+[30Apr2025 17:54:05.857] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 0
+[30Apr2025 17:54:06.652] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[30Apr2025 17:54:06.653] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[30Apr2025 17:54:06.653] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 12 cooked_beef
+[30Apr2025 17:54:06.653] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 torch
+[30Apr2025 17:54:06.654] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 0
+[30Apr2025 17:54:07.018] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AdalSpider (18)
+[30Apr2025 17:54:07.020] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AdalSpider
+[30Apr2025 17:54:07.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[30Apr2025 17:54:38.500] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuisN[/127.136.99.52:51331] logged in with entity id 4130 at (-261.9550817564658, 64.0, -237.44179781671036)
+[30Apr2025 17:54:38.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN joined the game
+[30Apr2025 17:54:38.986] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LuisN (18)
+[30Apr2025 17:54:38.987] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LuisN
+[30Apr2025 17:55:22.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] todavia no les agarra el voicechat?
+[30Apr2025 17:55:29.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> telajeta
+[30Apr2025 17:55:31.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> no
+[30Apr2025 17:55:46.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] voo a tener que reiniciar
+[30Apr2025 17:55:51.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeronhhhhhh lost connection: Disconnected
+[30Apr2025 17:55:51.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh left the game
+[30Apr2025 17:55:51.239] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jeronhhhhhh
+[30Apr2025 17:55:56.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] si no estan en peligro reseteo
+[30Apr2025 17:55:56.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> reiniicar q
