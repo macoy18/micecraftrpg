@@ -1,370 +1,186 @@
-[30Apr2025 00:00:32.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuisN[/127.136.99.52:58479] logged in with entity id 103 at (-213.09572799079237, 69.0, -225.8791339462363)
-[30Apr2025 00:00:32.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN joined the game
-[30Apr2025 00:00:32.987] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LuisN (18)
-[30Apr2025 00:00:32.996] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LuisN
-[30Apr2025 00:02:12.348] [ForkJoinPool.commonPool-worker-4/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[30Apr2025 00:02:12.413] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Macoy18[/127.250.102.171:46527] logged in with entity id 459 at (-130.90076411835716, 73.24918707874468, -222.46299078505825)
-[30Apr2025 00:02:12.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 joined the game
-[30Apr2025 00:02:12.722] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Macoy18 (18)
-[30Apr2025 00:02:12.723] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Macoy18
-[30Apr2025 00:09:02.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> mano ya consegui lapi lazuri pero casi nada de hierro
-[30Apr2025 00:09:08.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> ahmmmm
-[30Apr2025 00:09:13.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> duerme
-[30Apr2025 00:09:16.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macoy18 lost connection: Disconnected
-[30Apr2025 00:09:16.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 left the game
-[30Apr2025 00:09:16.557] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
-[30Apr2025 00:10:41.369] [ForkJoinPool.commonPool-worker-7/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[30Apr2025 00:10:41.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Macoy18[/127.250.102.171:41353] logged in with entity id 3925 at (36.326060611751245, 106.0, -976.4820951010925)
-[30Apr2025 00:10:41.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 joined the game
-[30Apr2025 00:10:42.290] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Macoy18 (18)
-[30Apr2025 00:10:42.291] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Macoy18
-[30Apr2025 00:12:53.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 has made the advancement [Monster Hunter]
-[30Apr2025 00:12:55.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN has made the advancement [Acquire Hardware]
-[30Apr2025 00:13:08.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> me perdi en el amazonas
-[30Apr2025 00:13:10.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN has made the advancement [Suit Up]
-[30Apr2025 00:13:16.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> porque todo lo que veo es jungla
-[30Apr2025 00:18:14.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN was slain by Zombie
-[30Apr2025 00:18:29.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> xd
-[30Apr2025 00:18:34.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuisN lost connection: Disconnected
-[30Apr2025 00:18:34.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN left the game
-[30Apr2025 00:18:34.353] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LuisN
-[30Apr2025 00:18:34.411] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[30Apr2025 00:19:17.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuisN[/127.136.99.52:46579] logged in with entity id 8810 at (-169.38563181907764, 23.0, -196.01448858634376)
-[30Apr2025 00:19:17.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN joined the game
-[30Apr2025 00:19:17.600] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LuisN (18)
-[30Apr2025 00:19:17.600] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LuisN
-[30Apr2025 00:19:21.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN was slain by Zombie
-[30Apr2025 00:19:40.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN was slain by Zombie
-[30Apr2025 00:19:51.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> a
-[30Apr2025 00:20:17.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN was slain by Zombie Bruiser
-[30Apr2025 00:20:17.906] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[30Apr2025 00:20:17.906] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 17 is dual wielding: false
-[30Apr2025 00:20:17.907] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
-[30Apr2025 00:20:17.907] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[30Apr2025 00:20:17.907] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 5
-[30Apr2025 00:20:31.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> nieves duerme
-[30Apr2025 00:20:35.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macoy18 lost connection: Disconnected
-[30Apr2025 00:20:35.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 left the game
-[30Apr2025 00:20:35.050] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
-[30Apr2025 00:20:38.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN was slain by Zombie Bruiser
-[30Apr2025 00:20:45.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> zzz
-[30Apr2025 00:21:06.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN was slain by Zombie Bruiser
-[30Apr2025 00:21:27.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN was slain by Zombie Bruiser
-[30Apr2025 00:21:48.526] [ForkJoinPool.commonPool-worker-11/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[30Apr2025 00:21:48.552] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Macoy18[/127.250.102.171:51517] logged in with entity id 11015 at (295.0713695447896, 79.0, 162.1122198252711)
-[30Apr2025 00:21:48.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 joined the game
-[30Apr2025 00:21:48.813] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Macoy18 (18)
-[30Apr2025 00:21:48.814] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Macoy18
-[30Apr2025 00:22:26.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN was slain by Zombie Bruiser
-[30Apr2025 00:22:26.761] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[30Apr2025 00:22:26.762] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
-[30Apr2025 00:22:26.762] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
-[30Apr2025 00:22:26.762] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[30Apr2025 00:22:26.762] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
-[30Apr2025 00:23:22.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> ppor q ay un zombi q estunea ?
-[30Apr2025 00:23:28.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> nc
-[30Apr2025 00:23:34.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> tiene un mazo?
-[30Apr2025 00:23:38.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> si
-[30Apr2025 00:23:46.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> ahmmm
-[30Apr2025 00:23:51.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> y cuando lo hace no le puede hacer daño
-[30Apr2025 00:23:51.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> talvez sea por eso
-[30Apr2025 00:24:25.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> m,od de tumba
-[30Apr2025 00:24:41.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> no
-[30Apr2025 00:24:46.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> kakakaka
-[30Apr2025 00:27:28.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN has made the advancement [Isn't It Iron Pick]
-[30Apr2025 00:27:31.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN has made the advancement [Deceived Hopes]
-[30Apr2025 00:27:53.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> otra ves con los diamantes falso
-[30Apr2025 00:27:58.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> si
-[30Apr2025 00:29:00.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> y depaso no esta el mod este de que te dice los nombre de los bloques
-[30Apr2025 00:29:11.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> nop
-[30Apr2025 00:31:25.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> duerme
-[30Apr2025 00:31:26.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macoy18 lost connection: Disconnected
-[30Apr2025 00:31:26.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 left the game
-[30Apr2025 00:31:26.701] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
-[30Apr2025 00:31:28.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuisN lost connection: Disconnected
-[30Apr2025 00:31:28.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN left the game
-[30Apr2025 00:31:28.846] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LuisN
-[30Apr2025 00:32:15.398] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuisN[/127.136.99.52:35305] logged in with entity id 17306 at (-152.1673241073543, -8.0, -266.17214164922734)
-[30Apr2025 00:32:15.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN joined the game
-[30Apr2025 00:32:15.584] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LuisN (18)
-[30Apr2025 00:32:15.584] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LuisN
-[30Apr2025 00:33:19.558] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[30Apr2025 00:33:19.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Macoy18[/127.250.102.171:60957] logged in with entity id 17574 at (-484.91362028084797, 63.0, 589.7130940382286)
-[30Apr2025 00:33:19.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 joined the game
-[30Apr2025 00:33:20.185] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Macoy18 (18)
-[30Apr2025 00:33:20.185] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Macoy18
-[30Apr2025 00:33:32.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> nieves
-[30Apr2025 00:33:38.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> dime
-[30Apr2025 00:33:39.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> por la noche violan
-[30Apr2025 00:33:52.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> estoy en cueva
-[30Apr2025 00:36:13.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN was slain by Nightmare Stalker
-[30Apr2025 00:36:22.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> te lo dije
-[30Apr2025 00:36:22.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> que mierda
-[30Apr2025 00:36:30.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> zzz
-[30Apr2025 00:36:33.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> en la noche violan
-[30Apr2025 00:36:34.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> awwwwwwwwwwwwwwwwww
-[30Apr2025 00:36:34.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macoy18 lost connection: Disconnected
-[30Apr2025 00:36:34.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 left the game
-[30Apr2025 00:36:34.800] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
-[30Apr2025 00:37:20.476] [ForkJoinPool.commonPool-worker-18/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[30Apr2025 00:37:20.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Macoy18[/127.250.102.171:44477] logged in with entity id 19020 at (-487.6548809287955, 66.0, 568.4260038984596)
-[30Apr2025 00:37:20.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 joined the game
-[30Apr2025 00:37:21.122] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Macoy18 (18)
-[30Apr2025 00:37:21.122] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Macoy18
-[30Apr2025 00:42:38.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> q haces
-[30Apr2025 00:42:52.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> regresando a mi casa
-[30Apr2025 00:43:47.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> ya te hisite casa ?
-[30Apr2025 00:43:58.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> mas o menos
-[30Apr2025 00:44:10.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> tu sabes todo al aire libre
-[30Apr2025 00:44:32.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> ajajaja ya
-[30Apr2025 00:47:14.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> zzzz
-[30Apr2025 00:47:43.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macoy18 lost connection: Disconnected
-[30Apr2025 00:47:43.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 left the game
-[30Apr2025 00:47:43.149] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
-[30Apr2025 00:48:29.500] [ForkJoinPool.commonPool-worker-22/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[30Apr2025 00:48:29.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Macoy18[/127.250.102.171:59487] logged in with entity id 23599 at (-150.69999998807907, 66.0, -81.21003198547498)
-[30Apr2025 00:48:29.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 joined the game
-[30Apr2025 00:48:29.827] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Macoy18 (18)
-[30Apr2025 00:48:29.828] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Macoy18
-[30Apr2025 00:51:13.603] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AdalSpider[/127.201.109.144:40873] logged in with entity id 24453 at (-95.09033688697279, 73.0, -280.2747160400776)
-[30Apr2025 00:51:13.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider joined the game
-[30Apr2025 00:51:14.232] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AdalSpider (18)
-[30Apr2025 00:51:14.233] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AdalSpider
-[30Apr2025 00:51:39.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> afk
-[30Apr2025 00:51:46.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> quiehn
-[30Apr2025 00:53:32.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> yo
-[30Apr2025 00:53:38.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> comiendo
-[30Apr2025 00:53:40.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [Acquire Hardware]
-[30Apr2025 00:55:27.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> me hace miedo minar
-[30Apr2025 00:55:41.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> y tenga
-[30Apr2025 00:56:01.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> hasdkjads
-[30Apr2025 00:56:35.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> adal tengo miedo
-[30Apr2025 00:56:51.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> basura tu no le temes a ningun hombre
-[30Apr2025 00:57:03.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> consegui un lago rosa
-[30Apr2025 00:57:08.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> hay algo alla afuera
-[30Apr2025 00:57:12.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> y no es humano
-[30Apr2025 00:57:12.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> lago de terrariaçaw
-[30Apr2025 00:57:28.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> waoooooooo
-[30Apr2025 00:57:31.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> waoooooo
-[30Apr2025 00:57:36.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> waooooo
-[30Apr2025 00:57:37.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> el monte
-[30Apr2025 00:57:39.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> atrasas?
-[30Apr2025 00:57:41.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> tu tu
-[30Apr2025 00:57:47.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> i
-[30Apr2025 00:57:58.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> ese tipo de monte alto
-[30Apr2025 00:57:59.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=111, y=66, z=-346} BlockPos{x=113, y=65, z=-345}
-[30Apr2025 00:58:13.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> vayan salienod
-[30Apr2025 00:58:14.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> miomir
-[30Apr2025 00:58:15.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> mejor que salgas de ahi
-[30Apr2025 00:58:18.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> salgan
-[30Apr2025 00:58:22.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ammmm
-[30Apr2025 00:58:23.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ammm
-[30Apr2025 00:58:24.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> que es hora de mimir
-[30Apr2025 00:58:24.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> amm
-[30Apr2025 00:58:25.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ammm
-[30Apr2025 00:58:25.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ammm
-[30Apr2025 00:58:26.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ammm
-[30Apr2025 00:58:27.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> amm
-[30Apr2025 00:58:27.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> amma
-[30Apr2025 00:58:27.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> aa
-[30Apr2025 00:58:28.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> mama
-[30Apr2025 00:58:28.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macoy18 lost connection: Disconnected
-[30Apr2025 00:58:28.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 left the game
-[30Apr2025 00:58:28.303] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
-[30Apr2025 00:58:28.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> mma
-[30Apr2025 00:58:28.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> aam
-[30Apr2025 00:58:31.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> salgan
-[30Apr2025 00:58:32.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> nieves
-[30Apr2025 00:58:33.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> aaaa
-[30Apr2025 00:58:34.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> a
-[30Apr2025 00:58:34.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> a
-[30Apr2025 00:58:34.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> aa
-[30Apr2025 00:58:35.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> aaa
-[30Apr2025 00:58:35.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> aa
-[30Apr2025 00:58:35.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> a
-[30Apr2025 00:58:37.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> asal
-[30Apr2025 00:58:38.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> sal
-[30Apr2025 00:58:38.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> sa
-[30Apr2025 00:58:40.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> lsa
-[30Apr2025 00:58:41.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> sal
-[30Apr2025 00:58:42.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> sal
-[30Apr2025 00:58:42.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> sal
-[30Apr2025 00:58:44.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> niueves
-[30Apr2025 00:58:48.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> mimir
-[30Apr2025 00:58:49.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> mimir
-[30Apr2025 00:58:50.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> niebve
-[30Apr2025 00:58:51.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuisN lost connection: Disconnected
-[30Apr2025 00:58:51.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN left the game
-[30Apr2025 00:58:51.349] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LuisN
-[30Apr2025 00:59:29.202] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuisN[/127.136.99.52:48071] logged in with entity id 28687 at (-343.3489391909298, 56.0, -179.05824937932505)
-[30Apr2025 00:59:29.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN joined the game
-[30Apr2025 00:59:29.389] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LuisN (18)
-[30Apr2025 00:59:29.390] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LuisN
-[30Apr2025 01:00:01.570] [ForkJoinPool.commonPool-worker-26/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[30Apr2025 01:00:01.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Macoy18[/127.250.102.171:53005] logged in with entity id 29337 at (-162.69999998807907, 35.0, -79.30000001192093)
-[30Apr2025 01:00:01.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 joined the game
-[30Apr2025 01:00:01.874] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Macoy18 (18)
-[30Apr2025 01:00:01.874] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Macoy18
-[30Apr2025 01:00:06.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> macopy
-[30Apr2025 01:00:15.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> q
-[30Apr2025 01:03:04.828] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=109, y=-40, z=-74}
-[30Apr2025 01:03:04.829] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=111, y=-40, z=-74}
-[30Apr2025 01:05:40.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> hay mochuilla?
-[30Apr2025 01:05:44.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> si
-[30Apr2025 01:05:45.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> sio
-[30Apr2025 01:06:11.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> busca con el jei
-[30Apr2025 01:09:09.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> vayan salienod
-[30Apr2025 01:09:11.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> o mimineod
-[30Apr2025 01:09:14.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuisN lost connection: Timed out
-[30Apr2025 01:09:14.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN left the game
-[30Apr2025 01:09:14.967] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LuisN
-[30Apr2025 01:09:18.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> perate
-[30Apr2025 01:09:20.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> salç
-[30Apr2025 01:09:21.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> sal
-[30Apr2025 01:09:22.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> sal
-[30Apr2025 01:09:22.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> sal
-[30Apr2025 01:09:23.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> sal
-[30Apr2025 01:09:23.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> asl
-[30Apr2025 01:09:24.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> aslas
-[30Apr2025 01:09:24.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> lasl
-[30Apr2025 01:09:24.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> asl
-[30Apr2025 01:09:24.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> asl
-[30Apr2025 01:09:25.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> asl
-[30Apr2025 01:09:25.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> la
-[30Apr2025 01:09:25.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> sals
-[30Apr2025 01:09:26.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> aslas
-[30Apr2025 01:09:26.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> as
-[30Apr2025 01:09:26.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> asasl
-[30Apr2025 01:09:27.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> aslaal
-[30Apr2025 01:09:27.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AdalSpider lost connection: Kicked for spamming
-[30Apr2025 01:09:27.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
-[30Apr2025 01:09:27.453] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
-[30Apr2025 01:09:29.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> es a las 6:32 que se puede dormir
-[30Apr2025 01:09:38.451] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuisN[/127.136.99.52:34283] logged in with entity id 34910 at (-261.20049350753493, 64.5625, -237.22741689428094)
-[30Apr2025 01:09:38.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN joined the game
-[30Apr2025 01:09:38.634] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LuisN (18)
-[30Apr2025 01:09:38.635] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LuisN
-[30Apr2025 01:09:43.004] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@13d376cc[id=<null>,name=AdalSpider,properties={},legacy=false] (/127.201.109.144:35589) lost connection: Disconnected
-[30Apr2025 01:09:51.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 has made the advancement [Acquire Hardware]
-[30Apr2025 01:09:53.304] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AdalSpider[/127.201.109.144:50349] logged in with entity id 35101 at (839.5, 75.0, -1086.5)
-[30Apr2025 01:09:53.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider joined the game
-[30Apr2025 01:09:54.007] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AdalSpider (18)
-[30Apr2025 01:09:54.007] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AdalSpider
-[30Apr2025 01:10:01.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> a
-[30Apr2025 01:10:05.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 has made the advancement [Isn't It Iron Pick]
-[30Apr2025 01:10:06.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> a
-[30Apr2025 01:10:40.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [Not Today, Thank You]
-[30Apr2025 01:10:51.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [Monster Hunter]
-[30Apr2025 01:11:41.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 has made the advancement [A Seedy Place]
-[30Apr2025 01:16:26.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> q bello este server
-[30Apr2025 01:16:33.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> epa
-[30Apr2025 01:16:38.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> mejor q el q pagamos jaajja
-[30Apr2025 01:16:40.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> q monstruos han visto
-[30Apr2025 01:16:51.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> cuanta corazones quitar
-[30Apr2025 01:16:57.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> un caballero gris gigante
-[30Apr2025 01:16:58.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [Suit Up]
-[30Apr2025 01:17:12.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> ay uno q te estunea y tu no le haces daño q lleva un garrote
-[30Apr2025 01:17:19.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> nc preguntale a nieves que etuvo con un zombie gigante
-[30Apr2025 01:17:30.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> las cuevas q tal
-[30Apr2025 01:17:37.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> y otro q es un lobo gigante de 200 de vida
-[30Apr2025 01:17:42.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> hay 2 o 3 biomas de cueva
-[30Apr2025 01:17:48.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> duras las cuevas
-[30Apr2025 01:18:11.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> a yo no e conseguido ninguna de esas
-[30Apr2025 01:18:54.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> lo que mas me gusta es los sonidos
-[30Apr2025 01:18:59.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> el eco
-[30Apr2025 01:19:01.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> bello
-[30Apr2025 01:19:25.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ,me hace sentir m,as tension e n cueva
-[30Apr2025 01:19:58.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> q
-[30Apr2025 01:20:05.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> no otra vez
-[30Apr2025 01:20:07.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> nc ya me cage
-[30Apr2025 01:20:07.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> q es eso
-[30Apr2025 01:20:11.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> ni idea
-[30Apr2025 01:20:30.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> en el mundo ofline solo llegue a esta advertensia
-[30Apr2025 01:20:44.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> pronto lo averiguaremos
-[30Apr2025 01:20:51.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> sapo
-[30Apr2025 01:20:53.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> en fin voy rol arquero
-[30Apr2025 01:20:58.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> duermna
-[30Apr2025 01:21:12.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> zzz
-[30Apr2025 01:21:16.403] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuisN lost connection: Disconnected
-[30Apr2025 01:21:16.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN left the game
-[30Apr2025 01:21:16.404] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LuisN
-[30Apr2025 01:22:02.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuisN[/127.136.99.52:36491] logged in with entity id 40745 at (-113.66667032938325, -6.0, -314.5849840762946)
-[30Apr2025 01:22:02.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN joined the game
-[30Apr2025 01:22:02.865] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LuisN (18)
-[30Apr2025 01:22:02.865] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LuisN
-[30Apr2025 01:22:07.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> adal que tal vas con el sahder?
-[30Apr2025 01:23:26.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [Isn't It Iron Pick]
-[30Apr2025 01:23:59.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN has reached the goal [Fighting Nightmares]
-[30Apr2025 01:24:01.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN has made the advancement [Dark Metallurgy]
-[30Apr2025 01:24:06.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> necesito hilo pasa hacerme la mochila
-[30Apr2025 01:24:08.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> wopas
-[30Apr2025 01:24:11.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> joda muerto
-[30Apr2025 01:24:53.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> ese mod me busca puro a mi
-[30Apr2025 01:29:16.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> tengo miedo
-[30Apr2025 01:29:37.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> basura adal, tu no le temes a ningun hombre
-[30Apr2025 01:32:24.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macoy18 lost connection: Disconnected
-[30Apr2025 01:32:24.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 left the game
-[30Apr2025 01:32:24.606] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
-[30Apr2025 01:33:17.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] iba a dormir pero me aparecieron unos ojos brillantes con sonidos de cadena, y venia a mi
-[30Apr2025 01:33:26.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me cague bien feo
-[30Apr2025 01:33:41.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> y yo
-[30Apr2025 01:33:47.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ammmmmmmmmmmm
-[30Apr2025 01:33:50.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> macoy
-[30Apr2025 01:33:57.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> espero q hayas balanceado
-[30Apr2025 01:34:00.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] dime
-[30Apr2025 01:34:00.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> los enemigos
-[30Apr2025 01:34:18.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hay un loco con 100 puntos de vida
-[30Apr2025 01:34:25.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> osea
-[30Apr2025 01:34:29.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] parece una carpa
-[30Apr2025 01:34:30.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> armdauras y espadas buenas
-[30Apr2025 01:34:40.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] si hay
-[30Apr2025 01:34:46.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] revisa el jei
-[30Apr2025 01:35:08.601] [ForkJoinPool.commonPool-worker-36/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[30Apr2025 01:35:08.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Macoy18[/127.250.102.171:42867] logged in with entity id 46332 at (-50.9024847200595, 63.0, -58.474874423362955)
-[30Apr2025 01:35:08.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 joined the game
-[30Apr2025 01:35:08.958] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Macoy18 (18)
-[30Apr2025 01:35:08.958] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Macoy18
-[30Apr2025 01:35:23.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> porque no durmieron
-[30Apr2025 01:35:32.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> dijiste lo de los ojos
-[30Apr2025 01:35:49.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> por eso fue que me desconecte
-[30Apr2025 01:36:05.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> hay un zombie tipo the last of us con 40 puntos de vida
-[30Apr2025 01:36:11.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN has made the advancement [Life turned out to be a comedy]
-[30Apr2025 01:36:32.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> adal recuerdas los bebes esqueletos?
-[30Apr2025 01:36:36.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> se
-[30Apr2025 01:36:43.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> weno que crees
-[30Apr2025 01:36:49.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> si
-[30Apr2025 01:36:51.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ya lo vi
-[30Apr2025 01:37:08.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> fallen chao knight
-[30Apr2025 01:37:42.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ya bemgp
-[30Apr2025 01:37:44.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AdalSpider lost connection: Disconnected
-[30Apr2025 01:37:44.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
-[30Apr2025 01:37:44.762] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
-[30Apr2025 01:38:15.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN has made the advancement [Junior Summoner]
-[30Apr2025 01:38:23.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> ahmmm
-[30Apr2025 01:38:37.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> hoy ando todos contra mi
-[30Apr2025 01:39:02.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> yo no puedo hacer de esas
-[30Apr2025 01:39:06.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> no tengo armadura
-[30Apr2025 01:39:26.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> como q armadura
-[30Apr2025 01:39:38.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> si mate un hechicero esqueleto
-[30Apr2025 01:40:09.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> tu tampoco tienes
-[30Apr2025 01:40:30.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> el amanecer se ve bello
-[30Apr2025 01:51:59.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> nieves duerme
-[30Apr2025 01:52:19.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> yo ya vengo voy hacerme cena
-[30Apr2025 01:52:19.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> o salte
-[30Apr2025 01:52:21.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuisN lost connection: Disconnected
-[30Apr2025 01:52:21.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN left the game
-[30Apr2025 01:52:21.449] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LuisN
-[30Apr2025 02:35:19.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macoy18 lost connection: Disconnected
-[30Apr2025 02:35:19.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 left the game
-[30Apr2025 02:35:19.244] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
-[30Apr2025 02:36:45.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[30Apr2025 02:36:45.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[30Apr2025 02:36:45.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[30Apr2025 02:36:45.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[30Apr2025 02:36:45.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[30Apr2025 02:36:45.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[30Apr2025 02:36:45.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[30Apr2025 02:36:45.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[30Apr2025 02:36:45.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[30Apr2025 02:36:45.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[30Apr2025 02:36:45.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Apr2025 17:35:56.448] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[30Apr2025 17:35:56.453] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[30Apr2025 17:35:57.503] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[30Apr2025 17:35:57.516] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[30Apr2025 17:35:57.517] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/micecraftrpg/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23136!/
+[30Apr2025 17:35:57.527] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/micecraftrpg/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[30Apr2025 17:35:57.530] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[30Apr2025 17:35:57.593] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/micecraftrpg/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[30Apr2025 17:35:57.605] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[30Apr2025 17:35:57.962] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/micecraftrpg/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[30Apr2025 17:35:57.965] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/micecraftrpg/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Apr2025 17:35:57.966] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/micecraftrpg/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Apr2025 17:35:57.968] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/micecraftrpg/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Apr2025 17:35:58.239] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[30Apr2025 17:35:58.240] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/micecraftrpg/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.1.2.jar
+[30Apr2025 17:35:58.241] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[30Apr2025 17:35:58.905] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[30Apr2025 17:35:58.915] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[30Apr2025 17:35:59.385] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[30Apr2025 17:36:00.457] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[30Apr2025 17:36:00.591] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[30Apr2025 17:36:00.593] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[30Apr2025 17:36:00.740] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Apr2025 17:36:02.056] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0).
+[30Apr2025 17:36:09.492] [modloading-worker-0/WARN] [net.spellcraftgaming.rpghud.main.ModRPGHud/]: RPG-Hud is a client-side-only mod and should not be installed server-side, please remove it from your server
+[30Apr2025 17:36:10.047] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[30Apr2025 17:36:10.379] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[30Apr2025 17:36:10.664] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[30Apr2025 17:36:10.665] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[30Apr2025 17:36:12.756] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.becks.uniquedungeons.common.entities.city_snow_mobs.catapults.CitySnowCatapult from class com.becks.uniquedungeons.common.entities.city_snow_mobs.big_bob.CitySnowBigBob
+[30Apr2025 17:36:12.757] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.becks.uniquedungeons.common.entities.city_snow_mobs.catapults.CitySnowCatapult from class com.becks.uniquedungeons.common.entities.city_snow_mobs.big_bob.CitySnowBigBob
+[30Apr2025 17:36:12.765] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[30Apr2025 17:36:12.815] [modloading-worker-0/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: HELLO FROM COMMON SETUP
+[30Apr2025 17:36:12.819] [modloading-worker-0/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: DIRT BLOCK >> minecraft:dirt
+[30Apr2025 17:36:12.821] [modloading-worker-0/ERROR] [com.melvinbur.archbows.common.util.Logger/]: [archbows] Error Log.
+[30Apr2025 17:36:12.929] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[30Apr2025 17:36:12.948] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[30Apr2025 17:36:13.019] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[30Apr2025 17:36:13.027] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[30Apr2025 17:36:13.027] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[30Apr2025 17:36:13.041] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[30Apr2025 17:36:13.041] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[30Apr2025 17:36:13.044] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[30Apr2025 17:36:13.087] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[30Apr2025 17:36:13.088] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[30Apr2025 17:36:13.088] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[30Apr2025 17:36:13.089] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[30Apr2025 17:36:13.089] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[30Apr2025 17:36:13.089] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[30Apr2025 17:36:13.090] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[30Apr2025 17:36:13.109] [main/INFO] [terrablender/]: Registered region ars_nouveau:overworld to index 4 for type OVERWORLD
+[30Apr2025 17:36:13.853] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[30Apr2025 17:36:13.855] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[30Apr2025 17:36:14.003] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.30 Target: null
+[30Apr2025 17:36:14.003] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[30Apr2025 17:36:14.150] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.10 Target: 1.20.1-1.4.13
+[30Apr2025 17:36:14.150] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30Apr2025 17:36:14.532] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[30Apr2025 17:36:15.292] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[30Apr2025 17:36:15.442] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gravestone:gravestone Expected: 1163 Got: 1785
+[30Apr2025 17:36:15.443] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gravestone:gravestone Expected: 1877 Got: 2913
+[30Apr2025 17:36:15.443] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gravestone:obituary Expected: 1878 Got: 2914
+[30Apr2025 17:36:15.444] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: gravestone:player_ghost Expected: 239 Got: 293
+[30Apr2025 17:36:16.329] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/micecraftrpg/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/assets/.mcassetsroot' uses unexpected schema
+[30Apr2025 17:36:16.330] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/micecraftrpg/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/data/.mcassetsroot' uses unexpected schema
+[30Apr2025 17:36:17.578] [main/INFO] [bountiful/]: Adding serverside commands..
+[30Apr2025 17:36:19.555] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:archbows:inject/chests/spawn_bonus_chest
+com.google.gson.JsonSyntaxException: Missing entries
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:473) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23178!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23178!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[30Apr2025 17:36:19.680] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/spawn_bonus_chest}.pools[8].entries[0]: Unknown loot table called archbows:inject/chests/spawn_bonus_chest
+[30Apr2025 17:36:19.793] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
+[30Apr2025 17:36:19.904] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2089 advancements
+[30Apr2025 17:36:19.915] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[30Apr2025 17:36:19.920] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[30Apr2025 17:36:20.025] [main/INFO] [bountiful/]: Trying to load unloaded files from: config/bountiful/bounty_pools
+[30Apr2025 17:36:20.029] [main/INFO] [bountiful/]: Trying to load unloaded files from: config/bountiful/bounty_decrees
+[30Apr2025 17:36:20.065] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[30Apr2025 17:36:20.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[30Apr2025 17:36:20.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[30Apr2025 17:36:20.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[30Apr2025 17:36:20.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[30Apr2025 17:36:20.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[30Apr2025 17:36:20.961] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[30Apr2025 17:36:21.037] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[30Apr2025 17:36:21.038] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[30Apr2025 17:36:21.038] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[30Apr2025 17:36:21.038] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[30Apr2025 17:36:21.057] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/gravestone-server.toml is not correct. Correcting
+[30Apr2025 17:36:21.058] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enable_obituary was corrected from null to its default, true. 
+[30Apr2025 17:36:21.059] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key replaceable_blocks was corrected from null to its default, [#gravestone:grave_replaceable]. 
+[30Apr2025 17:36:21.060] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key remove_obituary was corrected from null to its default, false. 
+[30Apr2025 17:36:21.061] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key only_owners_can_break was corrected from null to its default, false. 
+[30Apr2025 17:36:21.062] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key spawn_ghost was corrected from null to its default, false. 
+[30Apr2025 17:36:21.063] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key friendly_ghost was corrected from null to its default, true. 
+[30Apr2025 17:36:21.065] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sneak_pickup was corrected from null to its default, false. 
+[30Apr2025 17:36:21.066] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key break_pickup was corrected from null to its default, true. 
+[30Apr2025 17:36:21.245] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[30Apr2025 17:36:21.808] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[30Apr2025 17:36:21.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[30Apr2025 17:36:27.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30Apr2025 17:36:31.263] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 17:36:31.291] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 17:36:31.308] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 17:36:31.314] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 17:36:31.325] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 17:36:31.341] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 17:36:31.363] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 17:36:31.375] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 17:36:31.376] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 17:36:31.685] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 17:36:32.175] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Apr2025 17:36:32.674] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
+[30Apr2025 17:36:33.004] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5832 ms
+[30Apr2025 17:36:33.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.954s)! For help, type "help"
+[30Apr2025 17:36:33.043] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30Apr2025 17:36:33.043] [Server thread/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: HELLO from server starting
+[30Apr2025 17:36:33.046] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: plains
+[30Apr2025 17:36:33.047] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: savanna
+[30Apr2025 17:36:33.047] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: snowy
+[30Apr2025 17:36:33.047] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: taiga
+[30Apr2025 17:36:33.048] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: desert
+[30Apr2025 17:36:33.188] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 125551 bytes (in 13 string chunks with the size of 10000)
+[30Apr2025 17:36:33.191] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[30Apr2025 17:36:33.198] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[30Apr2025 17:36:33.207] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[30Apr2025 17:42:14.848] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thunder2032[/127.54.131.4:48293] logged in with entity id 135 at (-4.5, 67.0, 5.5)
+[30Apr2025 17:42:14.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thunder2032 joined the game
+[30Apr2025 17:42:15.466] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Thunder2032 (18)
+[30Apr2025 17:42:15.468] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Thunder2032
+[30Apr2025 17:42:18.174] [ForkJoinPool.commonPool-worker-2/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[30Apr2025 17:42:18.223] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kristd17[/127.95.38.215:41151] logged in with entity id 213 at (7.5, 66.0, -3.5)
+[30Apr2025 17:42:18.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 joined the game
+[30Apr2025 17:42:18.757] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kristd17 (18)
+[30Apr2025 17:42:18.758] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kristd17
+[30Apr2025 17:42:49.218] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeronhhhhhh[/127.6.169.105:39319] logged in with entity id 306 at (-2.5, 67.0, -6.5)
+[30Apr2025 17:42:49.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh joined the game
+[30Apr2025 17:42:50.223] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeronhhhhhh (18)
+[30Apr2025 17:42:50.223] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeronhhhhhh
+[30Apr2025 17:43:55.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> hola...
+[30Apr2025 17:43:59.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> ha tp?
+[30Apr2025 17:44:22.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] buenos dias estrellitas la tierra les dice hola
+[30Apr2025 17:44:34.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> tp
+[30Apr2025 17:44:36.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no hay tp
+[30Apr2025 17:44:42.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> gracias
+[30Apr2025 17:44:44.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> !!
+[30Apr2025 17:44:48.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> mapa'
+[30Apr2025 17:44:51.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> ?
+[30Apr2025 17:44:55.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Apr2025 17:44:55.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: no<--[HERE]
+[30Apr2025 17:44:59.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no
+[30Apr2025 17:45:04.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] solo cords
+[30Apr2025 17:45:07.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> pl
+[30Apr2025 17:45:08.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 has made the advancement [Monster Hunter]
+[30Apr2025 17:45:12.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> ok
+[30Apr2025 17:45:31.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 has made the advancement [Stone Age]
+[30Apr2025 17:45:35.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] jeronimo en el menu de pausa arriba a la derecha presionas
