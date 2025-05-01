@@ -543,3 +543,29 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 20:44:27.673] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Macoy18 (18)
 [01May2025 20:44:27.673] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Macoy18
 [01May2025 20:44:32.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> macoy
+[01May2025 20:44:37.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> q
+[01May2025 20:44:40.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> los enanos sirven pa algo?
+[01May2025 20:44:50.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> cuales?
+[01May2025 20:44:56.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> uno con cuernos?
+[01May2025 20:44:59.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> si
+[01May2025 20:45:05.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> ps nc
+[01May2025 20:45:13.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> no suelta nada y no tradea
+[01May2025 20:46:15.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of kristd17) moved wrongly! 0.3703207210155597
+[01May2025 20:46:15.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of kristd17) moved wrongly! 0.7061908188088637
+[01May2025 20:46:15.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of kristd17) moved wrongly! 0.9607537908550512
+[01May2025 20:46:15.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of kristd17) moved wrongly! 1.170638970947948
+[01May2025 20:46:16.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of kristd17) moved wrongly! 1.3560235282075155
+[01May2025 20:46:16.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of kristd17) moved wrongly! 0.322344024009908
+[01May2025 20:49:48.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> jerome es una mrd
+[01May2025 20:49:54.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> por
+[01May2025 20:50:11.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> me llevo pa una ancient city y spwnearon 2 wardens
+[01May2025 20:50:21.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ammmmmm
+[01May2025 20:54:32.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> zzzzzzzzzzzzz
+[01May2025 20:54:41.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kristd17 lost connection: Disconnected
+[01May2025 20:54:41.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 left the game
+[01May2025 20:54:41.023] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kristd17
+[01May2025 20:54:59.517] [ForkJoinPool.commonPool-worker-52/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[01May2025 20:54:59.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kristd17[/127.95.38.215:56873] logged in with entity id 129639 at (4624.524073303733, 105.0, -1586.7230024300964)
+[01May2025 20:54:59.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 joined the game
+[01May2025 20:54:59.728] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kristd17 (18)
+[01May2025 20:54:59.728] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kristd17
