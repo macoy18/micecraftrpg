@@ -4007,6 +4007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-01 21:36:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-01 21:27:56 +0000"
@@ -4019,9 +4025,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-01 21:36:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-05-01 21:27:56 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-05-01 21:38:05 +0000"
     },
     "done": true
   },
@@ -4034,6 +4052,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-05-01 20:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-01 21:35:42 +0000"
     },
     "done": true
   },
@@ -4082,6 +4106,12 @@
   "biomesoplenty:recipes/building_blocks/flesh": {
     "criteria": {
       "has_blood_bucket": "2025-05-01 20:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-01 21:35:42 +0000"
     },
     "done": true
   },
