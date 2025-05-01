@@ -1675,6 +1675,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-05-01 20:11:03 +0000",
+      "minecraft:birch_forest": "2025-05-01 20:18:27 +0000",
       "minecraft:beach": "2025-04-30 00:59:07 +0000",
       "minecraft:sparse_jungle": "2025-05-01 19:46:03 +0000",
       "minecraft:river": "2025-04-29 23:26:36 +0000",
@@ -1683,6 +1685,8 @@
       "minecraft:forest": "2025-04-29 23:25:05 +0000",
       "minecraft:ocean": "2025-04-30 00:59:12 +0000",
       "minecraft:jungle": "2025-05-01 19:45:28 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-01 20:19:38 +0000",
+      "minecraft:meadow": "2025-05-01 20:31:54 +0000",
       "minecraft:savanna": "2025-04-30 01:04:09 +0000",
       "minecraft:plains": "2025-04-29 23:26:30 +0000"
     },
@@ -2239,11 +2243,14 @@
       "woodland": "2025-04-30 01:10:28 +0000",
       "shrubland": "2025-04-30 00:52:09 +0000",
       "floodplain": "2025-05-01 19:45:31 +0000",
+      "highland": "2025-05-01 20:31:59 +0000",
+      "mystic_grove": "2025-05-01 20:15:46 +0000",
       "old_growth_woodland": "2025-04-30 01:10:11 +0000",
       "orchard": "2025-04-29 23:34:37 +0000",
       "overgrown_greens": "2025-04-30 00:57:28 +0000",
       "mediterranean_forest": "2025-04-30 01:04:52 +0000",
       "redwood_forest": "2025-05-01 19:47:50 +0000",
+      "dune_beach": "2025-05-01 20:37:25 +0000",
       "volcano": "2025-05-01 19:37:49 +0000",
       "pasture": "2025-05-01 19:51:56 +0000",
       "rocky_rainforest": "2025-05-01 19:37:16 +0000",
@@ -2556,6 +2563,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-01 20:29:23 +0000",
       "minecraft:skeleton": "2025-04-30 01:10:51 +0000",
       "minecraft:spider": "2025-04-30 18:24:01 +0000",
       "minecraft:creeper": "2025-04-30 18:29:34 +0000",
@@ -3929,6 +3937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-05-01 19:36:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-05-01 19:42:46 +0000"
@@ -3944,12 +3958,6 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-01 19:42:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-05-01 19:36:36 +0000"
     },
     "done": true
   },
