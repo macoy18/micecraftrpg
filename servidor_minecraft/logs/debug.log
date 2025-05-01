@@ -9353,3 +9353,9 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 06:08:02.026] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
 [01May2025 06:10:56.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01May2025 06:10:56.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 06:15:56.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 06:15:56.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 06:18:59.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=60, z=-253} BlockPos{x=688, y=64, z=-254}
+[01May2025 06:20:56.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 06:20:56.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 06:21:41.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh has made the advancement [Bypassing the Expiration Date]
