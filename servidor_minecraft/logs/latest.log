@@ -264,3 +264,41 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 19:19:19.831] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AdalSpider (18)
 [01May2025 19:19:19.832] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AdalSpider
 [01May2025 19:22:06.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> zzz
+[01May2025 19:23:17.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 has made the advancement [Not a Fluid!]
+[01May2025 19:24:46.010] [ForkJoinPool.commonPool-worker-28/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[01May2025 19:24:46.042] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kristd17[/127.95.38.215:59859] logged in with entity id 47866 at (759.9931559812301, 104.0625, -1352.7862534082528)
+[01May2025 19:24:46.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 joined the game
+[01May2025 19:24:46.594] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kristd17 (18)
+[01May2025 19:24:46.594] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kristd17
+[01May2025 19:26:09.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> adal
+[01May2025 19:26:11.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> aldea?
+[01May2025 19:26:12.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ey
+[01May2025 19:26:23.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> tu tas
+[01May2025 19:26:25.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> donde
+[01May2025 19:26:27.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> lava?
+[01May2025 19:26:32.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> si
+[01May2025 19:26:35.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> vienes?
+[01May2025 19:26:36.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> voy pa alla
+[01May2025 19:28:00.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 has made the advancement [Magic Mod Mechanic]
+[01May2025 19:28:21.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> exploramos o nether
+[01May2025 19:28:44.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> terminemos armadura
+[01May2025 19:29:12.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> pos
+[01May2025 19:29:15.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> vayamos explorandoi
+[01May2025 19:29:18.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> falta es cuero
+[01May2025 19:29:25.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> yo tengo ya
+[01May2025 19:29:27.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> 14
+[01May2025 19:29:38.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> yo me la acabo de hacer
+[01May2025 19:29:55.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeronhhhhhh[/127.6.169.105:53131] logged in with entity id 50346 at (-281.99855466165087, 67.0, -245.3207504958357)
+[01May2025 19:29:55.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh joined the game
+[01May2025 19:29:56.702] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeronhhhhhh (18)
+[01May2025 19:29:56.702] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeronhhhhhh
+[01May2025 19:32:18.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> hola
+[01May2025 19:32:24.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> no me deja hacer las botas
+[01May2025 19:32:30.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> ok
+[01May2025 19:32:34.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> q
+[01May2025 19:32:37.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> a ver pasa
+[01May2025 19:33:05.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> me quedo con los pantalones de la dungeon
+[01May2025 19:33:10.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> hola geronimo
+[01May2025 19:33:19.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> jahskdjahskjd
+[01May2025 19:33:20.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> q hacen
+[01May2025 19:33:21.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> esa no erna
