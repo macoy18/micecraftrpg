@@ -200,3 +200,22 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 02:57:09.847] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kristd17
 [01May2025 02:57:50.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> 713Ç
 [01May2025 02:57:57.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> -907
+[01May2025 03:03:16.379] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f20ab4d[id=<null>,name=Macoy18,properties={},legacy=false] (/127.250.102.171:34831) lost connection: Disconnected
+[01May2025 03:03:38.419] [ForkJoinPool.commonPool-worker-8/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[01May2025 03:03:38.435] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Macoy18[/127.250.102.171:49323] logged in with entity id 13466 at (-128.25818264328674, 71.0, -75.33081906099447)
+[01May2025 03:03:38.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 joined the game
+[01May2025 03:03:39.283] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Macoy18 (18)
+[01May2025 03:03:39.284] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Macoy18
+[01May2025 03:03:58.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> MACOYT
+[01May2025 03:04:06.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> QUERES BLOQUES?
+[01May2025 03:04:06.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> q
+[01May2025 03:04:10.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> de?
+[01May2025 03:04:20.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> PIZARRA PROFUHNDA
+[01May2025 03:04:26.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> UN CASTILLO OSCURO
+[01May2025 03:04:34.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> trae que tengo espacio
+[01May2025 03:04:40.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> DONDE
+[01May2025 03:04:49.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> pero puyote no que ya servia el chat de voz?
+[01May2025 03:04:59.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> nu+
+[01May2025 03:08:01.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> zzzzzzzzzzzzzzzzzzzzzz
+[01May2025 03:08:07.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> zzzzz
+[01May2025 03:08:10.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> zzzzzz
