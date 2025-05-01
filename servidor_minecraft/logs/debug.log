@@ -4920,3 +4920,9 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 17:47:54.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
 [01May2025 17:47:54.766] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of AdalSpider
 [01May2025 17:47:54.766] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
+[01May2025 17:52:08.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 17:52:08.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 17:57:08.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 17:57:08.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 18:02:08.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 18:02:08.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
