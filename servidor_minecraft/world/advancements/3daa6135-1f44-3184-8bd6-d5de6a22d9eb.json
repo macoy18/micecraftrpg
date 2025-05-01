@@ -1681,6 +1681,7 @@
       "minecraft:bamboo_jungle": "2025-04-30 20:44:34 +0000",
       "minecraft:beach": "2025-04-30 00:22:52 +0000",
       "minecraft:dark_forest": "2025-04-30 00:17:39 +0000",
+      "minecraft:mangrove_swamp": "2025-05-01 04:05:24 +0000",
       "minecraft:sparse_jungle": "2025-04-30 20:44:47 +0000",
       "minecraft:river": "2025-04-29 23:31:15 +0000",
       "minecraft:stony_shore": "2025-04-30 00:13:57 +0000",
@@ -4065,6 +4066,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-05-01 04:11:56 +0000",
+      "trickor_treat_2": "2025-05-01 04:12:34 +0000",
+      "trickor_treat_3": "2025-05-01 04:12:34 +0000",
+      "trickor_treat_4": "2025-05-01 04:12:34 +0000",
+      "trickor_treat_5": "2025-05-01 04:12:34 +0000",
+      "trickor_treat_6": "2025-05-01 04:12:34 +0000",
+      "trickor_treat_7": "2025-05-01 04:12:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-05-01 03:05:49 +0000"
@@ -4106,6 +4119,18 @@
       "has_oxeye_daisy": "2025-05-01 03:22:17 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-05-01 04:11:56 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-05-01 04:11:57 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
