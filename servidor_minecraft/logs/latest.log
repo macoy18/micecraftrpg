@@ -598,3 +598,31 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 21:20:34.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> macoy
 [01May2025 21:20:40.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> haceme tp a adal
 [01May2025 21:22:01.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported kristd17 to AdalSpider
+[01May2025 21:30:58.239] [ForkJoinPool.commonPool-worker-58/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[01May2025 21:30:58.274] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Macoy18[/127.250.102.171:41131] logged in with entity id 137786 at (-127.56909786850544, 71.875, -75.92928824099353)
+[01May2025 21:30:58.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 joined the game
+[01May2025 21:30:58.489] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Macoy18 (18)
+[01May2025 21:30:58.489] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Macoy18
+[01May2025 21:31:37.335] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeronhhhhhh[/127.6.169.105:36797] logged in with entity id 138041 at (-280.9059504972483, 67.0, -245.013678474647)
+[01May2025 21:31:37.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh joined the game
+[01May2025 21:31:38.258] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeronhhhhhh (18)
+[01May2025 21:31:38.258] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeronhhhhhh
+[01May2025 21:32:00.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> wow
+[01May2025 21:32:03.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> unas niñas
+[01May2025 21:32:09.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> me dan miedo
+[01May2025 21:32:12.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> salganse
+[01May2025 21:32:15.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> xd
+[01May2025 21:33:09.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> andan en el nether?
+[01May2025 21:33:14.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> q sale solo 2 para dormir
+[01May2025 21:33:17.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> se
+[01May2025 21:33:23.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> q hacen
+[01May2025 21:33:26.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> alla
+[01May2025 21:33:39.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> no habiamos venido
+[01May2025 21:33:55.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> ok
+[01May2025 21:34:20.633] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuisN[/127.136.99.52:46387] logged in with entity id 139101 at (-279.19426986248357, 67.125, -244.76658408583322)
+[01May2025 21:34:20.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN joined the game
+[01May2025 21:34:20.791] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LuisN (18)
+[01May2025 21:34:20.791] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LuisN
+[01May2025 21:34:59.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> hola
+[01May2025 21:35:42.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 has made the advancement [Spooky Scary Skeleton]
+[01May2025 21:35:51.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN has made the advancement [Enchanter]
