@@ -7784,3 +7784,7 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 05:22:06.276] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of AdalSpider
 [01May2025 05:22:06.276] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
 [01May2025 05:22:06.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> dale
+[01May2025 05:25:56.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 05:25:56.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 05:30:56.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 05:30:56.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

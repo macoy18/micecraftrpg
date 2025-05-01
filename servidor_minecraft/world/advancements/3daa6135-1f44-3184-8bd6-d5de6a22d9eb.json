@@ -4331,6 +4331,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-05-01 05:23:21 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:sweet_battle": {
     "criteria": {
       "sweet_battle_0": "2025-05-01 05:06:09 +0000"
