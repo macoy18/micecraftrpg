@@ -161,3 +161,32 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 16:42:24.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=571, y=16, z=-397} BlockPos{x=570, y=15, z=-397}
 [01May2025 16:42:30.793] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=572, y=14, z=-392} BlockPos{x=571, y=14, z=-392}
 [01May2025 17:02:18.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=927, y=82, z=-213} BlockPos{x=928, y=82, z=-212}
+[01May2025 17:13:00.391] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AdalSpider[/127.201.109.144:50011] logged in with entity id 17468 at (763.7461981000234, 103.0, -1349.8365331243335)
+[01May2025 17:13:00.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider joined the game
+[01May2025 17:13:02.066] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AdalSpider (18)
+[01May2025 17:13:02.067] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AdalSpider
+[01May2025 17:14:36.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Jeronhhhhhh to AdalSpider
+[01May2025 17:14:42.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> ola
+[01May2025 17:14:46.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> alo
+[01May2025 17:16:52.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> marico
+[01May2025 17:16:56.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> q coño fue eso
+[01May2025 17:16:57.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> mira
+[01May2025 17:17:02.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> oye respeta
+[01May2025 17:17:13.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> obtnas
+[01May2025 17:17:19.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> arriba
+[01May2025 17:17:35.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> X
+[01May2025 17:17:36.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> D
+[01May2025 17:17:38.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> estp
+[01May2025 17:17:42.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> a
+[01May2025 17:18:04.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> XD
+[01May2025 17:18:08.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> mmmmmm
+[01May2025 17:18:14.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> hay varias
+[01May2025 17:18:28.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> evento
+[01May2025 17:18:29.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> chavales
+[01May2025 17:19:32.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/17588, l='ServerLevel[world]', x=730.29, y=107.00, z=-1273.70] died, message: 'Farmer was slain by Zombie Lumberjack'
+[01May2025 17:20:38.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> en que direccion
+[01May2025 17:20:41.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> esta la casa
+[01May2025 17:20:42.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> ?
+[01May2025 17:21:04.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ammmmmmmmm
+[01May2025 17:21:14.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> alado de spawm principal
+[01May2025 17:21:23.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> macoy dijo algo
