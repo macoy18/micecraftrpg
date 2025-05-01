@@ -489,3 +489,6 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 06:08:02.026] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
 [01May2025 06:18:59.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=60, z=-253} BlockPos{x=688, y=64, z=-254}
 [01May2025 06:21:41.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh has made the advancement [Bypassing the Expiration Date]
+[01May2025 06:26:36.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeronhhhhhh lost connection: Disconnected
+[01May2025 06:26:36.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh left the game
+[01May2025 06:26:36.073] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jeronhhhhhh
