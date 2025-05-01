@@ -477,3 +477,13 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 06:01:23.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> XD
 [01May2025 06:01:29.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> dita sea
 [01May2025 06:01:40.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> mimido
+[01May2025 06:05:58.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeronhhhhhh lost connection: Disconnected
+[01May2025 06:05:58.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh left the game
+[01May2025 06:05:58.331] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jeronhhhhhh
+[01May2025 06:06:12.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeronhhhhhh[/127.6.169.105:48409] logged in with entity id 85520 at (357.6704520196988, 28.541303734282934, 36.252223045710394)
+[01May2025 06:06:12.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh joined the game
+[01May2025 06:06:12.935] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeronhhhhhh (18)
+[01May2025 06:06:12.937] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeronhhhhhh
+[01May2025 06:08:02.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macoy18 lost connection: Disconnected
+[01May2025 06:08:02.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 left the game
+[01May2025 06:08:02.026] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
