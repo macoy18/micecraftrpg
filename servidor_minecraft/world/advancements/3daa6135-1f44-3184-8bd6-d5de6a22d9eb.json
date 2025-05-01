@@ -1685,6 +1685,7 @@
       "minecraft:mangrove_swamp": "2025-05-01 04:05:24 +0000",
       "minecraft:sparse_jungle": "2025-04-30 20:44:47 +0000",
       "minecraft:river": "2025-04-29 23:31:15 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-01 22:01:14 +0000",
       "minecraft:stony_shore": "2025-04-30 00:13:57 +0000",
       "minecraft:swamp": "2025-04-30 02:21:53 +0000",
       "minecraft:cold_ocean": "2025-04-30 02:32:27 +0000",
@@ -2113,6 +2114,7 @@
       "jade_cliffs": "2025-04-30 23:18:24 +0000",
       "wetland": "2025-04-30 19:28:58 +0000",
       "mystic_grove": "2025-04-30 23:11:23 +0000",
+      "old_growth_woodland": "2025-05-01 22:13:54 +0000",
       "orchard": "2025-04-30 00:02:23 +0000",
       "field": "2025-04-30 18:37:07 +0000",
       "overgrown_greens": "2025-04-30 00:03:20 +0000",
@@ -3496,6 +3498,7 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
+      "charm_collector_1": "2025-05-01 22:06:52 +0000",
       "charm_collector_4": "2025-04-30 20:49:29 +0000"
     },
     "done": false
@@ -4901,6 +4904,12 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-01 20:25:32 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-05-01 21:58:22 +0000"
     },
     "done": true
   },

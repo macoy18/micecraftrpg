@@ -2769,6 +2769,7 @@
       "potato": "2025-04-30 20:35:15 +0000",
       "mutton": "2025-05-01 05:13:38 +0000",
       "bread": "2025-04-30 19:09:58 +0000",
+      "golden_apple": "2025-05-01 22:29:40 +0000",
       "dried_kelp": "2025-04-30 19:25:22 +0000",
       "melon_slice": "2025-04-30 18:26:51 +0000"
     },
@@ -2797,6 +2798,7 @@
       "grassland": "2025-04-30 18:27:05 +0000",
       "prairie": "2025-05-01 19:49:15 +0000",
       "glowing_grotto": "2025-05-01 19:39:36 +0000",
+      "undergrowth": "2025-05-01 22:07:41 +0000",
       "rainforest": "2025-04-30 18:23:55 +0000"
     },
     "done": false
@@ -3977,21 +3979,60 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-05-01 21:00:41 +0000"
-    },
-    "done": false
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-01 20:57:15 +0000"
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-01 20:57:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/flesh": {
+    "criteria": {
+      "has_blood_bucket": "2025-05-01 20:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-01 22:07:58 +0000",
+      "minecraft:nether_wastes": "2025-05-01 21:00:41 +0000",
+      "minecraft:soul_sand_valley": "2025-05-01 21:52:02 +0000",
+      "minecraft:warped_forest": "2025-05-01 22:24:22 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-05-01 21:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-01 21:17:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-05-01 21:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-01 21:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-01 21:19:22 +0000"
     },
     "done": true
   },
@@ -4007,27 +4048,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-05-01 21:36:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-01 21:27:56 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
-    "criteria": {
-      "has_rose_quartz_chunk": "2025-05-01 21:05:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-05-01 21:36:53 +0000"
     },
     "done": true
   },
@@ -4037,27 +4060,9 @@
     },
     "done": true
   },
-  "simplyswords:simplyswords": {
-    "criteria": {
-      "requirement": "2025-05-01 21:38:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-05-01 21:27:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-05-01 20:57:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-05-01 21:35:42 +0000"
     },
     "done": true
   },
@@ -4073,13 +4078,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
-      "has_blaze_rod": "2025-05-01 21:19:22 +0000"
+      "has_nether_bricks": "2025-05-01 21:27:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+  "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-05-01 21:27:56 +0000"
     },
@@ -4091,21 +4096,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_wall": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "has_nether_bricks": "2025-05-01 21:27:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-05-01 21:17:13 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/flesh": {
-    "criteria": {
-      "has_blood_bucket": "2025-05-01 20:59:11 +0000"
+      "wither_skull": "2025-05-01 21:35:42 +0000"
     },
     "done": true
   },
@@ -4115,9 +4108,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
-      "has_blaze_rod": "2025-05-01 21:19:22 +0000"
+      "has_nether_wart": "2025-05-01 21:36:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-01 21:36:53 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-05-01 21:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-01 22:22:32 +0000"
     },
     "done": true
   },
