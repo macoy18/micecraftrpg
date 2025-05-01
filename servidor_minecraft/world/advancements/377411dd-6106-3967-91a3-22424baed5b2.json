@@ -1791,10 +1791,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-01 20:29:03 +0000",
+      "minecraft:blaze": "2025-05-01 21:16:20 +0000",
       "minecraft:skeleton": "2025-04-30 18:57:28 +0000",
+      "minecraft:magma_cube": "2025-05-01 21:17:37 +0000",
       "minecraft:creeper": "2025-04-30 19:01:29 +0000",
       "minecraft:husk": "2025-04-30 19:13:40 +0000",
       "minecraft:cave_spider": "2025-04-30 18:58:35 +0000",
+      "minecraft:piglin": "2025-05-01 21:04:04 +0000",
+      "minecraft:enderman": "2025-05-01 21:08:52 +0000",
       "minecraft:zombie": "2025-04-30 17:45:08 +0000"
     },
     "done": false
@@ -2773,9 +2777,12 @@
     "criteria": {
       "woodland": "2025-04-30 19:54:52 +0000",
       "shrubland": "2025-04-30 18:19:57 +0000",
+      "erupting_inferno": "2025-05-01 21:14:43 +0000",
       "floodplain": "2025-04-30 18:25:42 +0000",
       "mystic_grove": "2025-05-01 20:16:23 +0000",
       "old_growth_woodland": "2025-05-01 02:24:00 +0000",
+      "crystalline_chasm": "2025-05-01 21:05:41 +0000",
+      "withered_abyss": "2025-05-01 21:09:26 +0000",
       "orchard": "2025-05-01 19:48:29 +0000",
       "overgrown_greens": "2025-04-30 18:20:07 +0000",
       "mediterranean_forest": "2025-04-30 18:49:15 +0000",
@@ -3981,15 +3988,45 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-01 21:19:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-05-01 21:05:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-05-01 20:57:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-01 21:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-01 21:17:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/flesh": {
     "criteria": {
       "has_blood_bucket": "2025-05-01 20:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-01 21:19:22 +0000"
     },
     "done": true
   },

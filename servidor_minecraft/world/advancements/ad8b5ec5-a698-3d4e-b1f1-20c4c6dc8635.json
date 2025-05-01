@@ -2242,10 +2242,13 @@
     "criteria": {
       "woodland": "2025-04-30 01:10:28 +0000",
       "shrubland": "2025-04-30 00:52:09 +0000",
+      "erupting_inferno": "2025-05-01 21:14:52 +0000",
       "floodplain": "2025-05-01 19:45:31 +0000",
       "highland": "2025-05-01 20:31:59 +0000",
       "mystic_grove": "2025-05-01 20:15:46 +0000",
       "old_growth_woodland": "2025-04-30 01:10:11 +0000",
+      "crystalline_chasm": "2025-05-01 21:05:40 +0000",
+      "withered_abyss": "2025-05-01 21:09:24 +0000",
       "orchard": "2025-04-29 23:34:37 +0000",
       "overgrown_greens": "2025-04-30 00:57:28 +0000",
       "mediterranean_forest": "2025-04-30 01:04:52 +0000",
@@ -2566,12 +2569,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-01 20:29:23 +0000",
+      "minecraft:blaze": "2025-05-01 21:17:11 +0000",
       "minecraft:skeleton": "2025-04-30 01:10:51 +0000",
+      "minecraft:magma_cube": "2025-05-01 21:17:34 +0000",
       "minecraft:spider": "2025-04-30 18:24:01 +0000",
       "minecraft:creeper": "2025-04-30 18:29:34 +0000",
       "minecraft:witch": "2025-04-30 18:11:50 +0000",
+      "minecraft:wither_skeleton": "2025-05-01 21:08:44 +0000",
       "minecraft:husk": "2025-04-30 20:36:48 +0000",
       "minecraft:cave_spider": "2025-04-30 19:22:07 +0000",
+      "minecraft:enderman": "2025-05-01 21:11:04 +0000",
       "minecraft:zombie": "2025-04-30 18:02:48 +0000"
     },
     "done": false
@@ -4011,6 +4018,18 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-01 21:17:12 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-05-01 21:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-01 20:48:07 +0000"
@@ -4032,6 +4051,24 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-05-01 20:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-01 21:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-01 21:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-01 21:17:12 +0000"
     },
     "done": true
   },

@@ -573,3 +573,28 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 20:56:39.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> pregunte
 [01May2025 20:57:11.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [We Need to Go Deeper]
 [01May2025 20:57:15.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 has made the advancement [We Need to Go Deeper]
+[01May2025 21:12:20.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuisN[/127.136.99.52:44785] logged in with entity id 134093 at (-282.87252155923176, 67.5625, -245.76249998807907)
+[01May2025 21:12:20.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN joined the game
+[01May2025 21:12:20.670] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LuisN (18)
+[01May2025 21:12:20.670] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LuisN
+[01May2025 21:13:25.824] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuisN lost connection: Disconnected
+[01May2025 21:13:25.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN left the game
+[01May2025 21:13:25.825] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LuisN
+[01May2025 21:16:36.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [A Terrible Fortress]
+[01May2025 21:17:12.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [Into Fire]
+[01May2025 21:17:13.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 has made the advancement [A Terrible Fortress]
+[01May2025 21:18:28.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> oe
+[01May2025 21:18:33.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> se cayo la llamada?
+[01May2025 21:18:36.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> se me corto
+[01May2025 21:18:39.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> no conetsatste
+[01May2025 21:18:48.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> no sono
+[01May2025 21:19:11.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [Warped]
+[01May2025 21:19:22.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 has made the advancement [Into Fire]
+[01May2025 21:20:09.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 was burnt to a crisp whilst fighting Blaze
+[01May2025 21:20:13.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> xd
+[01May2025 21:20:19.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macoy18 lost connection: Disconnected
+[01May2025 21:20:19.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 left the game
+[01May2025 21:20:19.320] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
+[01May2025 21:20:34.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> macoy
+[01May2025 21:20:40.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> haceme tp a adal
+[01May2025 21:22:01.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported kristd17 to AdalSpider
