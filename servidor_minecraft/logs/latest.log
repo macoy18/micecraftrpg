@@ -244,3 +244,11 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 18:29:02.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider joined the game
 [01May2025 18:29:02.828] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AdalSpider (18)
 [01May2025 18:29:02.829] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AdalSpider
+[01May2025 18:38:41.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AdalSpider lost connection: Disconnected
+[01May2025 18:38:41.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
+[01May2025 18:38:41.365] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
+[01May2025 18:42:32.787] [ForkJoinPool.commonPool-worker-21/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[01May2025 18:42:32.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Macoy18[/127.250.102.171:59297] logged in with entity id 39112 at (-127.38246815048454, 71.875, -75.69422268525561)
+[01May2025 18:42:32.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 joined the game
+[01May2025 18:42:33.029] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Macoy18 (18)
+[01May2025 18:42:33.030] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Macoy18
