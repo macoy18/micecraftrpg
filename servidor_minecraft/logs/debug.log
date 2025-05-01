@@ -4356,3 +4356,17 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 02:19:53.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> -1100
 [01May2025 02:20:56.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01May2025 02:20:56.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 02:25:56.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 02:25:56.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 02:30:56.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 02:30:56.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 02:35:56.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 02:35:56.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 02:40:56.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 02:40:56.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 02:45:56.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 02:45:56.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 02:49:09.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has reached the goal [Pray to the Goddess]
+[01May2025 02:49:24.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 has reached the goal [Pray to the Goddess]
+[01May2025 02:50:56.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 02:50:56.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

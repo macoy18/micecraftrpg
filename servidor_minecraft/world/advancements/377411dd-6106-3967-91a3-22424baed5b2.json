@@ -2766,6 +2766,7 @@
       "woodland": "2025-04-30 19:54:52 +0000",
       "shrubland": "2025-04-30 18:19:57 +0000",
       "floodplain": "2025-04-30 18:25:42 +0000",
+      "old_growth_woodland": "2025-05-01 02:24:00 +0000",
       "overgrown_greens": "2025-04-30 18:20:07 +0000",
       "mediterranean_forest": "2025-04-30 18:49:15 +0000",
       "rocky_rainforest": "2025-04-30 18:24:14 +0000",
@@ -3576,6 +3577,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-04-30 23:54:14 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-05-01 02:49:24 +0000"
     },
     "done": true
   },
