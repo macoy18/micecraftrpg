@@ -13832,3 +13832,11 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 20:54:59.728] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with kristd17
 [01May2025 20:54:59.728] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with kristd17
 [01May2025 20:54:59.728] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kristd17
+[01May2025 20:56:02.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> si quieren vayan el nether, yo voy a estar afk agarrando piedra
+[01May2025 20:56:39.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> pregunte
+[01May2025 20:57:08.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 20:57:08.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 20:57:11.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [We Need to Go Deeper]
+[01May2025 20:57:15.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 has made the advancement [We Need to Go Deeper]
+[01May2025 21:02:08.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 21:02:08.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

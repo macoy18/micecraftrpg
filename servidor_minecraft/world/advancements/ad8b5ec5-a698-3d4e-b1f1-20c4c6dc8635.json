@@ -2250,6 +2250,7 @@
       "overgrown_greens": "2025-04-30 00:57:28 +0000",
       "mediterranean_forest": "2025-04-30 01:04:52 +0000",
       "redwood_forest": "2025-05-01 19:47:50 +0000",
+      "visceral_heap": "2025-05-01 20:57:13 +0000",
       "dune_beach": "2025-05-01 20:37:25 +0000",
       "volcano": "2025-05-01 19:37:49 +0000",
       "pasture": "2025-05-01 19:51:56 +0000",
@@ -2258,6 +2259,7 @@
       "lavender_field": "2025-04-29 23:30:13 +0000",
       "prairie": "2025-05-01 19:49:17 +0000",
       "glowing_grotto": "2025-05-01 19:39:32 +0000",
+      "undergrowth": "2025-05-01 21:00:21 +0000",
       "rainforest": "2025-04-30 01:02:58 +0000"
     },
     "done": false
@@ -3997,6 +3999,18 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-05-01 21:00:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-01 20:57:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-01 20:48:07 +0000"
@@ -4012,6 +4026,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-05-01 20:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-01 20:57:11 +0000"
     },
     "done": true
   },
