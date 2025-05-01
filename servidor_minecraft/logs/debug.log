@@ -19128,3 +19128,52 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 23:07:06.032] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
 [01May2025 23:07:08.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01May2025 23:07:08.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 23:07:18.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> y los lados ?
+[01May2025 23:07:22.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> q ponemos en el tehco?
+[01May2025 23:07:26.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> no tengotantos
+[01May2025 23:07:35.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> igual ira otrra cosa ahi
+[01May2025 23:07:56.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kristd17 lost connection: Disconnected
+[01May2025 23:07:56.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 left the game
+[01May2025 23:07:56.124] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of kristd17
+[01May2025 23:07:56.124] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kristd17
+[01May2025 23:08:21.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> entro al rato
+[01May2025 23:08:28.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> asi veoq pongo ahi
+[01May2025 23:08:31.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> lo mas seguro
+[01May2025 23:08:36.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> ladrillos del nether
+[01May2025 23:08:39.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> o algo oscuro
+[01May2025 23:08:44.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> q ayude a los colores
+[01May2025 23:08:46.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> si eso te iba a decir
+[01May2025 23:08:58.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeronhhhhhh lost connection: Disconnected
+[01May2025 23:08:58.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh left the game
+[01May2025 23:08:58.618] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Jeronhhhhhh
+[01May2025 23:08:58.618] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jeronhhhhhh
+[01May2025 23:09:38.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN was slain by Nightmare Stalker
+[01May2025 23:09:38.881] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01May2025 23:09:38.882] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 13 is dual wielding: false
+[01May2025 23:09:38.883] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[01May2025 23:09:38.883] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[01May2025 23:09:38.883] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[01May2025 23:09:43.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> xd
+[01May2025 23:09:52.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> macoy tp por fa
+[01May2025 23:09:57.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> a donde?
+[01May2025 23:10:05.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> estoy en la ancien city
+[01May2025 23:10:22.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> te tpeo a mi?
+[01May2025 23:10:30.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> me haces tp a la aldea
+[01May2025 23:10:47.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 withered away whilst fighting Nightmare Stalker
+[01May2025 23:10:50.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1106, y=38, z=144} BlockPos{x=-1107, y=37, z=142}
+[01May2025 23:10:50.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1106, y=38, z=144} BlockPos{x=-1107, y=37, z=142}
+[01May2025 23:11:17.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> ya ni armadura tengo
+[01May2025 23:11:26.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> tp ?
+[01May2025 23:11:28.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> que pa donde te tpo nieves?
+[01May2025 23:11:37.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> para la aldea
+[01May2025 23:11:47.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> de donde es nuestra base
+[01May2025 23:11:51.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Macoy18: Teleported LuisN to Macoy18]
+[01May2025 23:12:08.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 23:12:08.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 23:12:11.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> gracias mano
+[01May2025 23:14:38.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> epa y los aldeanos?
+[01May2025 23:14:50.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> eso le pregunte a jerome
+[01May2025 23:14:59.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuisN> creo q se murieron todos
+[01May2025 23:15:06.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> naiq
+[01May2025 23:17:08.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 23:17:08.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
