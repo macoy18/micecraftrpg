@@ -145,3 +145,7 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 16:12:08.540] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [01May2025 16:12:08.548] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [01May2025 16:12:08.558] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
+[01May2025 16:22:52.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeronhhhhhh[/127.6.169.105:40869] logged in with entity id 118 at (538.455258995786, 38.0, -313.27085958786694)
+[01May2025 16:22:52.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh joined the game
+[01May2025 16:22:53.967] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeronhhhhhh (18)
+[01May2025 16:22:53.968] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeronhhhhhh
