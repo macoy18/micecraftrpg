@@ -3689,6 +3689,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-05-01 04:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-05-01 04:10:43 +0000"
