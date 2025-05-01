@@ -2772,7 +2772,8 @@
       "bread": "2025-04-30 19:09:58 +0000",
       "golden_apple": "2025-05-01 22:29:40 +0000",
       "dried_kelp": "2025-04-30 19:25:22 +0000",
-      "melon_slice": "2025-04-30 18:26:51 +0000"
+      "melon_slice": "2025-04-30 18:26:51 +0000",
+      "carrot": "2025-05-01 23:03:49 +0000"
     },
     "done": false
   },
@@ -4130,6 +4131,30 @@
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-05-01 22:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-01 22:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-05-01 23:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-01 22:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-01 23:04:00 +0000"
     },
     "done": true
   },
