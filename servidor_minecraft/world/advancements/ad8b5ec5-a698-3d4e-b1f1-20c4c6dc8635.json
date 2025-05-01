@@ -1676,11 +1676,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-04-30 00:59:07 +0000",
+      "minecraft:sparse_jungle": "2025-05-01 19:46:03 +0000",
       "minecraft:river": "2025-04-29 23:26:36 +0000",
       "minecraft:lukewarm_ocean": "2025-04-30 18:29:45 +0000",
       "minecraft:stony_shore": "2025-04-30 00:59:24 +0000",
       "minecraft:forest": "2025-04-29 23:25:05 +0000",
       "minecraft:ocean": "2025-04-30 00:59:12 +0000",
+      "minecraft:jungle": "2025-05-01 19:45:28 +0000",
       "minecraft:savanna": "2025-04-30 01:04:09 +0000",
       "minecraft:plains": "2025-04-29 23:26:30 +0000"
     },
@@ -2236,12 +2238,19 @@
     "criteria": {
       "woodland": "2025-04-30 01:10:28 +0000",
       "shrubland": "2025-04-30 00:52:09 +0000",
+      "floodplain": "2025-05-01 19:45:31 +0000",
       "old_growth_woodland": "2025-04-30 01:10:11 +0000",
       "orchard": "2025-04-29 23:34:37 +0000",
       "overgrown_greens": "2025-04-30 00:57:28 +0000",
       "mediterranean_forest": "2025-04-30 01:04:52 +0000",
+      "redwood_forest": "2025-05-01 19:47:50 +0000",
+      "volcano": "2025-05-01 19:37:49 +0000",
+      "pasture": "2025-05-01 19:51:56 +0000",
+      "rocky_rainforest": "2025-05-01 19:37:16 +0000",
       "volcanic_plains": "2025-04-30 00:59:49 +0000",
       "lavender_field": "2025-04-29 23:30:13 +0000",
+      "prairie": "2025-05-01 19:49:17 +0000",
+      "glowing_grotto": "2025-05-01 19:39:32 +0000",
       "rainforest": "2025-04-30 01:02:58 +0000"
     },
     "done": false
@@ -3911,6 +3920,72 @@
   "paraglider:statues_bargain": {
     "criteria": {
       "bargain": "2025-05-01 18:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-05-01 19:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-05-01 19:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-05-01 19:42:46 +0000"
     },
     "done": true
   },

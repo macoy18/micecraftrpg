@@ -1675,6 +1675,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-05-01 19:49:26 +0000",
       "minecraft:windswept_hills": "2025-04-30 20:56:24 +0000",
       "minecraft:bamboo_jungle": "2025-04-30 20:40:16 +0000",
       "minecraft:beach": "2025-04-30 17:50:08 +0000",
@@ -1945,7 +1946,9 @@
       "minecraft:magma_cube": "2025-04-30 22:34:59 +0000",
       "minecraft:spider": "2025-04-30 21:27:05 +0000",
       "minecraft:creeper": "2025-04-30 18:02:15 +0000",
+      "minecraft:phantom": "2025-05-01 19:37:35 +0000",
       "minecraft:zombified_piglin": "2025-04-30 22:31:30 +0000",
+      "minecraft:witch": "2025-05-01 19:46:36 +0000",
       "minecraft:wither_skeleton": "2025-04-30 22:34:17 +0000",
       "minecraft:piglin": "2025-04-30 22:30:39 +0000",
       "minecraft:enderman": "2025-05-01 06:06:29 +0000",
@@ -4496,6 +4499,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-05-01 17:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-01 19:33:04 +0000"
     },
     "done": true
   },
