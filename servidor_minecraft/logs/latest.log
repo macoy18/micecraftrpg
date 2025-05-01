@@ -252,3 +252,15 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 18:42:32.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 joined the game
 [01May2025 18:42:33.029] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Macoy18 (18)
 [01May2025 18:42:33.030] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Macoy18
+[01May2025 19:15:17.721] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AdalSpider[/127.201.109.144:37339] logged in with entity id 43940 at (703.5200888952496, 70.0, -978.1849629893183)
+[01May2025 19:15:17.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider joined the game
+[01May2025 19:15:18.361] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AdalSpider (18)
+[01May2025 19:15:18.362] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AdalSpider
+[01May2025 19:18:29.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AdalSpider lost connection: Disconnected
+[01May2025 19:18:29.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
+[01May2025 19:18:29.422] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
+[01May2025 19:19:19.221] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AdalSpider[/127.201.109.144:43041] logged in with entity id 45608 at (708.8216411897872, 70.0, -973.9711719355016)
+[01May2025 19:19:19.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider joined the game
+[01May2025 19:19:19.831] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AdalSpider (18)
+[01May2025 19:19:19.832] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AdalSpider
+[01May2025 19:22:06.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> zzz
