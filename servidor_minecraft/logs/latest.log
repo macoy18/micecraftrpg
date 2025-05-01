@@ -149,3 +149,8 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 16:22:52.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh joined the game
 [01May2025 16:22:53.967] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeronhhhhhh (18)
 [01May2025 16:22:53.968] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeronhhhhhh
+[01May2025 16:37:58.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh has made the advancement [Hidden in the Depths]
+[01May2025 16:38:32.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=554, y=16, z=-308} BlockPos{x=554, y=15, z=-305}
+[01May2025 16:38:32.986] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=554, y=16, z=-308} BlockPos{x=554, y=15, z=-305}
+[01May2025 16:38:33.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=554, y=16, z=-308} BlockPos{x=554, y=15, z=-305}
+[01May2025 16:38:33.079] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=554, y=16, z=-308} BlockPos{x=554, y=15, z=-305}
