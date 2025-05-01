@@ -190,3 +190,19 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 17:21:04.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ammmmmmmmm
 [01May2025 17:21:14.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> alado de spawm principal
 [01May2025 17:21:23.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> macoy dijo algo
+[01May2025 17:21:32.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> 700 al sur y 900 al oeste
+[01May2025 17:21:33.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> algo asi
+[01May2025 17:22:19.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> no tenes hierrro
+[01May2025 17:26:38.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AdalSpider lost connection: Disconnected
+[01May2025 17:26:38.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
+[01May2025 17:26:38.275] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
+[01May2025 17:28:03.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AdalSpider[/127.201.109.144:54205] logged in with entity id 24776 at (703.9373947618235, 62.64885840896006, -1421.4546945611523)
+[01May2025 17:28:03.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider joined the game
+[01May2025 17:28:04.412] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AdalSpider (18)
+[01May2025 17:28:04.413] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AdalSpider
+[01May2025 17:33:49.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeronhhhhhh lost connection: Disconnected
+[01May2025 17:33:49.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh left the game
+[01May2025 17:33:49.070] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jeronhhhhhh
+[01May2025 17:40:47.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AdalSpider lost connection: Disconnected
+[01May2025 17:40:47.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
+[01May2025 17:40:47.870] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
