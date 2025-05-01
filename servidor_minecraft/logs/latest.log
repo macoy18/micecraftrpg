@@ -436,3 +436,44 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 05:22:06.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
 [01May2025 05:22:06.276] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
 [01May2025 05:22:06.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> dale
+[01May2025 05:47:43.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeronhhhhhh[/127.6.169.105:33829] logged in with entity id 76709 at (-272.19999427232693, 64.0, -252.24233424158342)
+[01May2025 05:47:43.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh joined the game
+[01May2025 05:47:46.976] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeronhhhhhh (18)
+[01May2025 05:47:46.977] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeronhhhhhh
+[01May2025 05:48:10.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> ...
+[01May2025 05:48:22.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> ya estaba apunto de irme a dormir
+[01May2025 05:48:27.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> MMM
+[01May2025 05:48:34.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> dejalo abierto
+[01May2025 05:48:35.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> te agarre adoquin y un csaco de hierro
+[01May2025 05:48:40.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> pk
+[01May2025 05:48:42.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> ok
+[01May2025 05:48:46.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> q andas haceindo
+[01May2025 05:48:58.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> materiales para un castillo
+[01May2025 05:49:07.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> ok
+[01May2025 05:49:08.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> necesito mucho adoquin
+[01May2025 05:49:15.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> nwbona
+[01May2025 05:49:17.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> q pecado
+[01May2025 05:49:29.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> dejalo abierto
+[01May2025 05:49:29.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> y mucho carbon
+[01May2025 05:49:32.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> voy a estar un rato
+[01May2025 05:49:42.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> dale
+[01May2025 05:52:21.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh has made the advancement [Into Fire]
+[01May2025 05:52:42.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=146, y=63, z=-86} BlockPos{x=144, y=63, z=-89}
+[01May2025 05:53:17.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> tenes lana blanca que no necesites?
+[01May2025 05:53:22.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> ni tengo creo
+[01May2025 05:53:24.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> JAJAJA
+[01May2025 05:54:19.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=178, y=51, z=-42} BlockPos{x=178, y=50, z=-43}
+[01May2025 05:55:32.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeronhhhhhh lost connection: Disconnected
+[01May2025 05:55:32.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh left the game
+[01May2025 05:55:32.428] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jeronhhhhhh
+[01May2025 05:55:49.586] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeronhhhhhh[/127.6.169.105:51063] logged in with entity id 80625 at (186.5008214768001, 35.0, -4.969574187146728)
+[01May2025 05:55:49.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeronhhhhhh joined the game
+[01May2025 05:55:50.113] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jeronhhhhhh (18)
+[01May2025 05:55:50.114] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jeronhhhhhh
+[01May2025 05:56:05.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> duerme tu que yo sali a explorar
+[01May2025 05:56:14.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> ando el nether
+[01May2025 05:56:16.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> JSSAJIDSIJA
+[01May2025 06:01:20.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 was slain by Nightmare Stalker
+[01May2025 06:01:23.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jeronhhhhhh> XD
+[01May2025 06:01:29.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> dita sea
+[01May2025 06:01:40.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> mimido
