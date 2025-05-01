@@ -188,3 +188,15 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 02:19:53.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> -1100
 [01May2025 02:49:09.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has reached the goal [Pray to the Goddess]
 [01May2025 02:49:24.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 has reached the goal [Pray to the Goddess]
+[01May2025 02:53:37.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] siguen ahi?
+[01May2025 02:53:47.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> SE
+[01May2025 02:55:43.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kristd17 lost connection: Disconnected
+[01May2025 02:55:43.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 left the game
+[01May2025 02:55:43.123] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kristd17
+[01May2025 02:57:09.588] [ForkJoinPool.commonPool-worker-6/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[01May2025 02:57:09.636] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kristd17[/127.95.38.215:54765] logged in with entity id 12181 at (576.8585923358446, 72.0, -948.6999999880791)
+[01May2025 02:57:09.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 joined the game
+[01May2025 02:57:09.846] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kristd17 (18)
+[01May2025 02:57:09.847] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kristd17
+[01May2025 02:57:50.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> 713Ç
+[01May2025 02:57:57.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> -907
