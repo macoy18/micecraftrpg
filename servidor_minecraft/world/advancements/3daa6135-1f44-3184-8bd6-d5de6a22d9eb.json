@@ -4926,9 +4926,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-01 23:25:01 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_blacksmith": {
     "criteria": {
       "dark_blacksmith_0": "2025-05-01 22:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-01 23:25:01 +0000"
     },
     "done": true
   },
