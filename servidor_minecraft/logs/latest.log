@@ -206,3 +206,10 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 17:40:47.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AdalSpider lost connection: Disconnected
 [01May2025 17:40:47.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
 [01May2025 17:40:47.870] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
+[01May2025 17:44:00.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AdalSpider[/127.201.109.144:42881] logged in with entity id 28521 at (723.6139155654031, 102.0, -1326.1754228179138)
+[01May2025 17:44:00.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider joined the game
+[01May2025 17:44:01.694] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AdalSpider (18)
+[01May2025 17:44:01.694] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AdalSpider
+[01May2025 17:47:54.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AdalSpider lost connection: Disconnected
+[01May2025 17:47:54.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
+[01May2025 17:47:54.766] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
