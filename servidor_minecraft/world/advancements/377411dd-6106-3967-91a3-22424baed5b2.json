@@ -2754,8 +2754,10 @@
       "cooked_porkchop": "2025-04-30 18:19:45 +0000",
       "honey_bottle": "2025-04-30 21:45:47 +0000",
       "cooked_beef": "2025-04-30 18:57:44 +0000",
+      "porkchop": "2025-05-01 05:20:01 +0000",
       "apple": "2025-05-01 03:20:11 +0000",
       "potato": "2025-04-30 20:35:15 +0000",
+      "mutton": "2025-05-01 05:13:38 +0000",
       "bread": "2025-04-30 19:09:58 +0000",
       "dried_kelp": "2025-04-30 19:25:22 +0000",
       "melon_slice": "2025-04-30 18:26:51 +0000"
@@ -3683,6 +3685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-05-01 05:13:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-05-01 04:54:21 +0000"
@@ -3737,6 +3745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-01 05:13:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-01 04:10:43 +0000"
@@ -3764,6 +3778,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-05-01 04:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-05-01 05:13:08 +0000"
     },
     "done": true
   },

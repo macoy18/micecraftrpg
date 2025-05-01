@@ -7770,3 +7770,17 @@ com.google.gson.JsonSyntaxException: Missing entries
 [01May2025 05:11:10.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> zzzzzz
 [01May2025 05:11:28.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> Macoy18
 [01May2025 05:11:34.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> en dungeons
+[01May2025 05:15:56.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 05:15:56.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 05:20:56.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 05:20:56.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 05:21:53.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kristd17 lost connection: Disconnected
+[01May2025 05:21:53.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 left the game
+[01May2025 05:21:53.576] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of kristd17
+[01May2025 05:21:53.576] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kristd17
+[01May2025 05:21:58.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> chay macoy
+[01May2025 05:22:06.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AdalSpider lost connection: Disconnected
+[01May2025 05:22:06.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
+[01May2025 05:22:06.276] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of AdalSpider
+[01May2025 05:22:06.276] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
+[01May2025 05:22:06.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> dale
