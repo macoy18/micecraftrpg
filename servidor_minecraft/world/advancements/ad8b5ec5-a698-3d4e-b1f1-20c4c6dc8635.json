@@ -1679,6 +1679,8 @@
       "minecraft:sunflower_plains": "2025-05-01 20:11:03 +0000",
       "minecraft:birch_forest": "2025-05-01 20:18:27 +0000",
       "minecraft:beach": "2025-04-30 00:59:07 +0000",
+      "minecraft:dark_forest": "2025-05-02 03:11:54 +0000",
+      "minecraft:mangrove_swamp": "2025-05-02 04:35:54 +0000",
       "minecraft:sparse_jungle": "2025-05-01 19:46:03 +0000",
       "minecraft:river": "2025-04-29 23:26:36 +0000",
       "minecraft:lukewarm_ocean": "2025-04-30 18:29:45 +0000",
@@ -2243,6 +2245,9 @@
     "criteria": {
       "woodland": "2025-04-30 01:10:28 +0000",
       "shrubland": "2025-04-30 00:52:09 +0000",
+      "rocky_shrubland": "2025-05-02 03:10:20 +0000",
+      "scrubland": "2025-05-02 03:14:40 +0000",
+      "bayou": "2025-05-02 04:39:16 +0000",
       "erupting_inferno": "2025-05-01 21:14:52 +0000",
       "floodplain": "2025-05-01 19:45:31 +0000",
       "highland": "2025-05-01 20:31:59 +0000",
@@ -2255,6 +2260,8 @@
       "orchard": "2025-04-29 23:34:37 +0000",
       "overgrown_greens": "2025-04-30 00:57:28 +0000",
       "mediterranean_forest": "2025-04-30 01:04:52 +0000",
+      "dryland": "2025-05-02 03:39:09 +0000",
+      "wasteland": "2025-05-02 03:39:25 +0000",
       "redwood_forest": "2025-05-01 19:47:50 +0000",
       "visceral_heap": "2025-05-01 20:57:13 +0000",
       "aspen_glade": "2025-05-02 00:54:01 +0000",
@@ -2266,6 +2273,7 @@
       "lavender_field": "2025-04-29 23:30:13 +0000",
       "pumpkin_patch": "2025-05-02 00:54:15 +0000",
       "prairie": "2025-05-01 19:49:17 +0000",
+      "grassland": "2025-05-02 03:10:58 +0000",
       "glowing_grotto": "2025-05-01 19:39:32 +0000",
       "undergrowth": "2025-05-01 21:00:21 +0000",
       "rainforest": "2025-04-30 01:02:58 +0000",
@@ -2338,6 +2346,7 @@
       "cooked_porkchop": "2025-05-01 22:32:20 +0000",
       "cooked_mutton": "2025-04-30 01:10:20 +0000",
       "cooked_beef": "2025-04-29 23:34:04 +0000",
+      "porkchop": "2025-05-02 03:50:02 +0000",
       "apple": "2025-05-01 22:29:35 +0000",
       "mutton": "2025-04-30 20:15:34 +0000",
       "bread": "2025-04-30 17:56:03 +0000",
@@ -2582,6 +2591,7 @@
       "minecraft:magma_cube": "2025-05-01 21:17:34 +0000",
       "minecraft:spider": "2025-04-30 18:24:01 +0000",
       "minecraft:creeper": "2025-04-30 18:29:34 +0000",
+      "minecraft:phantom": "2025-05-02 03:47:42 +0000",
       "minecraft:witch": "2025-04-30 18:11:50 +0000",
       "minecraft:wither_skeleton": "2025-05-01 21:08:44 +0000",
       "minecraft:husk": "2025-04-30 20:36:48 +0000",
@@ -4423,6 +4433,60 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2025-05-02 00:55:07 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-05-02 03:26:42 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-05-02 03:26:42 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-05-02 03:26:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-05-02 03:28:37 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-05-02 03:47:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-05-02 04:34:02 +0000",
+      "trickor_treat_2": "2025-05-02 04:34:02 +0000",
+      "trickor_treat_3": "2025-05-02 04:34:02 +0000",
+      "trickor_treat_4": "2025-05-02 04:34:02 +0000",
+      "trickor_treat_5": "2025-05-02 04:34:02 +0000",
+      "trickor_treat_6": "2025-05-02 04:34:02 +0000",
+      "trickor_treat_7": "2025-05-02 04:34:02 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-05-02 04:35:00 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-05-02 04:22:21 +0000"
     },
     "done": true
   },

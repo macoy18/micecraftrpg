@@ -1680,6 +1680,7 @@
       "minecraft:birch_forest": "2025-04-30 18:18:08 +0000",
       "minecraft:beach": "2025-04-30 18:18:04 +0000",
       "minecraft:dark_forest": "2025-04-30 18:29:56 +0000",
+      "minecraft:mangrove_swamp": "2025-05-02 04:38:34 +0000",
       "minecraft:sparse_jungle": "2025-05-01 19:46:07 +0000",
       "minecraft:river": "2025-04-30 18:18:05 +0000",
       "minecraft:lukewarm_ocean": "2025-04-30 18:48:56 +0000",
@@ -2787,6 +2788,7 @@
       "shrubland": "2025-04-30 18:19:57 +0000",
       "rocky_shrubland": "2025-05-02 02:21:34 +0000",
       "scrubland": "2025-05-02 02:50:25 +0000",
+      "bayou": "2025-05-02 04:46:53 +0000",
       "erupting_inferno": "2025-05-01 21:14:43 +0000",
       "floodplain": "2025-04-30 18:25:42 +0000",
       "highland": "2025-05-02 00:34:40 +0000",
@@ -4203,15 +4205,117 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-05-02 02:39:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2025-05-02 02:53:54 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+  "born_in_chaos_v1:double_trouble": {
     "criteria": {
-      "has_lavender": "2025-05-02 02:39:30 +0000"
+      "double_trouble_0": "2025-05-02 03:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-05-02 03:23:29 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-05-02 03:29:34 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-05-02 03:29:34 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-05-02 03:29:34 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-05-02 03:35:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:protectedby_darkness": {
+    "criteria": {
+      "protectedby_darkness_0": "2025-05-02 03:40:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-05-02 04:21:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-05-02 04:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-05-02 04:48:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_5": "2025-05-02 04:48:33 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-05-02 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-05-02 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-05-02 04:37:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-05-02 04:33:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-02 04:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-02 04:21:25 +0000"
     },
     "done": true
   },
