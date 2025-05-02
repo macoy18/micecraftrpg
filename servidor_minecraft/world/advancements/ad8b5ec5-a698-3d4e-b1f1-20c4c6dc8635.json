@@ -2581,7 +2581,8 @@
       "minecraft:husk": "2025-04-30 20:36:48 +0000",
       "minecraft:cave_spider": "2025-04-30 19:22:07 +0000",
       "minecraft:enderman": "2025-05-01 21:11:04 +0000",
-      "minecraft:zombie": "2025-04-30 18:02:48 +0000"
+      "minecraft:zombie": "2025-04-30 18:02:48 +0000",
+      "minecraft:zombie_villager": "2025-05-02 00:03:00 +0000"
     },
     "done": false
   },
@@ -4170,6 +4171,42 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-05-01 22:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-01 23:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-01 23:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-01 23:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-02 00:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-02 00:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-02 00:15:17 +0000"
     },
     "done": true
   },

@@ -4158,5 +4158,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-02 00:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-02 00:06:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
