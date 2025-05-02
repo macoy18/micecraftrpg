@@ -798,3 +798,23 @@ com.google.gson.JsonSyntaxException: Missing entries
 [02May2025 08:01:29.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] asi si
 [02May2025 08:01:50.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] weno si van a pedir para tp no estoy
 [02May2025 08:01:56.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> dale
+[02May2025 08:09:55.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1601, y=-41, z=8672} BlockPos{x=1600, y=-41, z=8673}
+[02May2025 08:09:55.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1602, y=-42, z=8673} BlockPos{x=1600, y=-41, z=8673}
+[02May2025 08:09:56.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1602, y=-41, z=8672} BlockPos{x=1601, y=-41, z=8671}
+[02May2025 08:11:34.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1602, y=-37, z=8690} BlockPos{x=1603, y=-37, z=8691}
+[02May2025 08:11:34.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1602, y=-37, z=8690} BlockPos{x=1603, y=-37, z=8691}
+[02May2025 08:11:41.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1600, y=-34, z=8701} BlockPos{x=1600, y=-34, z=8700}
+[02May2025 08:11:43.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1600, y=-39, z=8703} BlockPos{x=1599, y=-39, z=8704}
+[02May2025 08:11:56.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1607, y=-37, z=8695} BlockPos{x=1607, y=-37, z=8696}
+[02May2025 08:11:56.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1607, y=-37, z=8696} BlockPos{x=1607, y=-38, z=8696}
+[02May2025 08:11:57.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1608, y=-39, z=8694} BlockPos{x=1609, y=-40, z=8694}
+[02May2025 08:11:58.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1608, y=-39, z=8694} BlockPos{x=1609, y=-40, z=8694}
+[02May2025 08:11:58.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1608, y=-39, z=8694} BlockPos{x=1609, y=-40, z=8693}
+[02May2025 08:12:00.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1611, y=-38, z=8686} BlockPos{x=1611, y=-39, z=8686}
+[02May2025 08:12:00.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1611, y=-38, z=8686} BlockPos{x=1611, y=-39, z=8686}
+[02May2025 08:12:24.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1632, y=-31, z=8698} BlockPos{x=1633, y=-31, z=8698}
+[02May2025 08:12:27.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1628, y=-35, z=8696} BlockPos{x=1630, y=-35, z=8695}
+[02May2025 08:12:45.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1629, y=-32, z=8692} BlockPos{x=1628, y=-31, z=8692}
+[02May2025 08:12:45.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1628, y=-33, z=8693} BlockPos{x=1629, y=-32, z=8691}
+[02May2025 08:20:16.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [Hidden in the Depths]
+[02May2025 08:20:27.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 has made the advancement [Hidden in the Depths]
