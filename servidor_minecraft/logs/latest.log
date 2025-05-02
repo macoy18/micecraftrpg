@@ -47,3 +47,60 @@
 [02May2025 00:53:30.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> MACOY
 [02May2025 00:53:32.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> UN REINICO RAPÇ
 [02May2025 00:53:47.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> no mejor dejarlo descansar media hora
+[02May2025 01:03:59.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AdalSpider lost connection: Disconnected
+[02May2025 01:03:59.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
+[02May2025 01:03:59.330] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
+[02May2025 01:04:02.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kristd17 lost connection: Disconnected
+[02May2025 01:04:02.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 left the game
+[02May2025 01:04:02.923] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kristd17
+[02May2025 01:04:39.129] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AdalSpider[/127.201.109.144:42707] logged in with entity id 225085 at (1188.1650517396833, 67.0, 2568.1516638901458)
+[02May2025 01:04:39.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider joined the game
+[02May2025 01:04:39.831] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AdalSpider (18)
+[02May2025 01:04:39.832] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AdalSpider
+[02May2025 01:05:02.540] [ForkJoinPool.commonPool-worker-111/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[02May2025 01:05:02.580] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kristd17[/127.95.38.215:42041] logged in with entity id 225431 at (1180.7975567151118, 66.0, 2571.498083160472)
+[02May2025 01:05:02.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 joined the game
+[02May2025 01:05:03.030] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kristd17 (18)
+[02May2025 01:05:03.030] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kristd17
+[02May2025 01:05:09.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AdalSpider lost connection: Disconnected
+[02May2025 01:05:09.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
+[02May2025 01:05:09.176] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
+[02May2025 01:05:09.228] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02May2025 01:05:17.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kristd17 lost connection: Disconnected
+[02May2025 01:05:17.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 left the game
+[02May2025 01:05:17.722] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kristd17
+[02May2025 01:05:27.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AdalSpider[/127.201.109.144:46373] logged in with entity id 225646 at (1188.1650517396833, 67.0, 2568.1516638901458)
+[02May2025 01:05:27.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider joined the game
+[02May2025 01:05:28.244] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AdalSpider (18)
+[02May2025 01:05:28.245] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AdalSpider
+[02May2025 01:05:49.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macoy18 lost connection: Timed out
+[02May2025 01:05:49.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 left the game
+[02May2025 01:05:49.075] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
+[02May2025 01:05:57.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AdalSpider lost connection: Timed out
+[02May2025 01:05:57.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
+[02May2025 01:05:57.719] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
+[02May2025 01:06:11.667] [ForkJoinPool.commonPool-worker-111/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[02May2025 01:06:11.724] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Macoy18[/127.250.102.171:57327] logged in with entity id 226050 at (-130.3961991494008, 70.0, -77.68887204363084)
+[02May2025 01:06:11.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 joined the game
+[02May2025 01:06:12.227] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Macoy18 (18)
+[02May2025 01:06:12.227] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Macoy18
+[02May2025 01:06:41.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macoy18 lost connection: Timed out
+[02May2025 01:06:41.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 left the game
+[02May2025 01:06:41.818] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
+[02May2025 01:07:12.478] [ForkJoinPool.commonPool-worker-113/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[02May2025 01:07:12.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Macoy18[/127.250.102.171:54241] logged in with entity id 226251 at (-130.3961991494008, 70.0, -77.68887204363084)
+[02May2025 01:07:12.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 joined the game
+[02May2025 01:07:12.842] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Macoy18 (18)
+[02May2025 01:07:12.842] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Macoy18
+[02May2025 01:07:42.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macoy18 lost connection: Timed out
+[02May2025 01:07:42.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 left the game
+[02May2025 01:07:42.620] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
+[02May2025 01:08:12.590] [ForkJoinPool.commonPool-worker-113/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[02May2025 01:08:12.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Macoy18[/127.250.102.171:34979] logged in with entity id 226467 at (-130.3961991494008, 70.0, -77.68887204363084)
+[02May2025 01:08:12.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 joined the game
+[02May2025 01:08:12.954] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Macoy18 (18)
+[02May2025 01:08:12.955] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Macoy18
+[02May2025 01:08:42.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macoy18 lost connection: Timed out
+[02May2025 01:08:42.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 left the game
+[02May2025 01:08:42.768] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
+[02May2025 01:09:36.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] apagando
