@@ -2785,6 +2785,8 @@
     "criteria": {
       "woodland": "2025-04-30 19:54:52 +0000",
       "shrubland": "2025-04-30 18:19:57 +0000",
+      "rocky_shrubland": "2025-05-02 02:21:34 +0000",
+      "scrubland": "2025-05-02 02:50:25 +0000",
       "erupting_inferno": "2025-05-01 21:14:43 +0000",
       "floodplain": "2025-04-30 18:25:42 +0000",
       "highland": "2025-05-02 00:34:40 +0000",
@@ -2797,6 +2799,8 @@
       "orchard": "2025-05-01 19:48:29 +0000",
       "overgrown_greens": "2025-04-30 18:20:07 +0000",
       "mediterranean_forest": "2025-04-30 18:49:15 +0000",
+      "dryland": "2025-05-02 02:58:49 +0000",
+      "wasteland": "2025-05-02 02:58:26 +0000",
       "redwood_forest": "2025-05-01 19:47:51 +0000",
       "visceral_heap": "2025-05-01 20:57:16 +0000",
       "aspen_glade": "2025-05-02 00:53:59 +0000",
@@ -4196,6 +4200,18 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_carved_pumpkin": "2025-05-02 01:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-05-02 02:53:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-05-02 02:39:30 +0000"
     },
     "done": true
   },
