@@ -1688,6 +1688,7 @@
       "minecraft:river": "2025-04-29 23:31:15 +0000",
       "minecraft:lukewarm_ocean": "2025-05-01 22:01:14 +0000",
       "minecraft:stony_shore": "2025-04-30 00:13:57 +0000",
+      "minecraft:dripstone_caves": "2025-05-02 07:16:53 +0000",
       "minecraft:swamp": "2025-04-30 02:21:53 +0000",
       "minecraft:cold_ocean": "2025-04-30 02:32:27 +0000",
       "minecraft:forest": "2025-04-29 23:26:54 +0000",
@@ -2455,6 +2456,7 @@
       "minecraft:creeper": "2025-04-30 02:07:32 +0000",
       "minecraft:phantom": "2025-05-02 04:19:33 +0000",
       "minecraft:witch": "2025-04-30 19:55:48 +0000",
+      "minecraft:husk": "2025-05-02 07:18:01 +0000",
       "minecraft:cave_spider": "2025-05-02 06:03:49 +0000",
       "minecraft:stray": "2025-05-02 06:05:02 +0000",
       "minecraft:vex": "2025-05-02 05:19:13 +0000",
@@ -5141,6 +5143,12 @@
     },
     "done": true
   },
+  "uniquedungeons:ancient_note": {
+    "criteria": {
+      "requirement": "2025-05-02 07:16:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 04:42:56 +0000"
@@ -5300,6 +5308,12 @@
   "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-05-02 04:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-05-02 07:25:11 +0000"
     },
     "done": true
   },
