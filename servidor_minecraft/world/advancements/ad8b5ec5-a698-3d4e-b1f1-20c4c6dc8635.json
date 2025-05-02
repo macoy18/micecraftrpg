@@ -1675,9 +1675,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-02 06:01:31 +0000",
       "minecraft:deep_ocean": "2025-05-02 00:52:26 +0000",
       "minecraft:sunflower_plains": "2025-05-01 20:11:03 +0000",
       "minecraft:birch_forest": "2025-05-01 20:18:27 +0000",
+      "minecraft:windswept_hills": "2025-05-02 05:57:59 +0000",
       "minecraft:beach": "2025-04-30 00:59:07 +0000",
       "minecraft:dark_forest": "2025-05-02 03:11:54 +0000",
       "minecraft:mangrove_swamp": "2025-05-02 04:35:54 +0000",
@@ -1685,10 +1687,16 @@
       "minecraft:river": "2025-04-29 23:26:36 +0000",
       "minecraft:lukewarm_ocean": "2025-04-30 18:29:45 +0000",
       "minecraft:stony_shore": "2025-04-30 00:59:24 +0000",
+      "minecraft:grove": "2025-05-02 06:27:50 +0000",
       "minecraft:forest": "2025-04-29 23:25:05 +0000",
+      "minecraft:lush_caves": "2025-05-02 06:40:57 +0000",
+      "minecraft:windswept_forest": "2025-05-02 06:01:21 +0000",
       "minecraft:ocean": "2025-04-30 00:59:12 +0000",
       "minecraft:jungle": "2025-05-01 19:45:28 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-02 06:13:01 +0000",
+      "minecraft:frozen_peaks": "2025-05-02 06:26:55 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-01 20:19:38 +0000",
+      "minecraft:deep_dark": "2025-05-02 06:49:13 +0000",
       "minecraft:meadow": "2025-05-01 20:31:54 +0000",
       "minecraft:savanna": "2025-04-30 01:04:09 +0000",
       "minecraft:plains": "2025-04-29 23:26:30 +0000"
@@ -2253,12 +2261,16 @@
       "highland": "2025-05-01 20:31:59 +0000",
       "jacaranda_glade": "2025-05-02 00:33:29 +0000",
       "marsh": "2025-05-02 00:32:52 +0000",
+      "jade_cliffs": "2025-05-02 06:21:04 +0000",
       "mystic_grove": "2025-05-01 20:15:46 +0000",
       "old_growth_woodland": "2025-04-30 01:10:11 +0000",
+      "maple_woods": "2025-05-02 06:13:41 +0000",
       "crystalline_chasm": "2025-05-01 21:05:40 +0000",
       "withered_abyss": "2025-05-01 21:09:24 +0000",
       "orchard": "2025-04-29 23:34:37 +0000",
+      "field": "2025-05-02 06:13:11 +0000",
       "overgrown_greens": "2025-04-30 00:57:28 +0000",
+      "moor": "2025-05-02 06:19:32 +0000",
       "mediterranean_forest": "2025-04-30 01:04:52 +0000",
       "dryland": "2025-05-02 03:39:09 +0000",
       "wasteland": "2025-05-02 03:39:25 +0000",
@@ -2346,12 +2358,14 @@
       "cooked_porkchop": "2025-05-01 22:32:20 +0000",
       "cooked_mutton": "2025-04-30 01:10:20 +0000",
       "cooked_beef": "2025-04-29 23:34:04 +0000",
+      "beef": "2025-05-02 06:03:32 +0000",
       "porkchop": "2025-05-02 03:50:02 +0000",
       "apple": "2025-05-01 22:29:35 +0000",
       "mutton": "2025-04-30 20:15:34 +0000",
       "bread": "2025-04-30 17:56:03 +0000",
       "golden_apple": "2025-05-01 17:22:58 +0000",
-      "rotten_flesh": "2025-04-30 20:15:56 +0000"
+      "rotten_flesh": "2025-04-30 20:15:56 +0000",
+      "carrot": "2025-05-02 06:53:41 +0000"
     },
     "done": false
   },
@@ -4468,11 +4482,29 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "born_in_chaos_v1:exorcism": {
     "criteria": {
-      "crying_obsidian": "2025-05-02 05:01:00 +0000"
+      "exorcism_0": "2025-05-02 04:22:21 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-05-02 04:34:02 +0000",
+      "trickor_treat_2": "2025-05-02 04:34:02 +0000",
+      "trickor_treat_3": "2025-05-02 04:34:02 +0000",
+      "trickor_treat_4": "2025-05-02 04:34:02 +0000",
+      "trickor_treat_5": "2025-05-02 04:34:02 +0000",
+      "trickor_treat_6": "2025-05-02 04:34:02 +0000",
+      "trickor_treat_7": "2025-05-02 04:34:02 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-05-02 04:35:00 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
@@ -4510,12 +4542,6 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:sweet_battle": {
-    "criteria": {
-      "sweet_battle_0": "2025-05-02 05:38:30 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-05-02 04:54:04 +0000"
@@ -4527,18 +4553,6 @@
       "has_upgrade_base": "2025-05-02 04:54:04 +0000"
     },
     "done": true
-  },
-  "born_in_chaos_v1:trickor_treat": {
-    "criteria": {
-      "trickor_treat_0": "2025-05-02 04:34:02 +0000",
-      "trickor_treat_2": "2025-05-02 04:34:02 +0000",
-      "trickor_treat_3": "2025-05-02 04:34:02 +0000",
-      "trickor_treat_4": "2025-05-02 04:34:02 +0000",
-      "trickor_treat_5": "2025-05-02 04:34:02 +0000",
-      "trickor_treat_6": "2025-05-02 04:34:02 +0000",
-      "trickor_treat_7": "2025-05-02 04:34:02 +0000"
-    },
-    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
@@ -4642,18 +4656,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-05-02 05:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-05-02 05:01:00 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-02 04:54:04 +0000"
@@ -4663,18 +4665,6 @@
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-02 04:54:04 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:squireofthe_dark_lord": {
-    "criteria": {
-      "squireofthe_dark_lord_6": "2025-05-02 04:35:00 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2025-05-02 04:22:21 +0000"
     },
     "done": true
   },
@@ -4708,12 +4698,6 @@
     },
     "done": true
   },
-  "minecraft:nether/fast_travel": {
-    "criteria": {
-      "travelled": "2025-05-02 05:13:19 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-02 04:54:04 +0000"
@@ -4723,6 +4707,102 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-02 04:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-02 05:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-02 05:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-05-02 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-05-02 05:34:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:sweet_battle": {
+    "criteria": {
+      "sweet_battle_0": "2025-05-02 05:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-05-02 06:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-02 06:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 06:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 06:39:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 06:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-02 06:49:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2025-05-02 06:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-02 07:02:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 06:46:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 06:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 06:46:03 +0000"
     },
     "done": true
   },

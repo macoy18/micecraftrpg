@@ -1675,9 +1675,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-02 06:01:33 +0000",
       "minecraft:deep_ocean": "2025-05-02 00:52:26 +0000",
       "minecraft:sunflower_plains": "2025-05-01 20:11:05 +0000",
       "minecraft:birch_forest": "2025-04-30 18:18:08 +0000",
+      "minecraft:windswept_hills": "2025-05-02 05:57:53 +0000",
       "minecraft:beach": "2025-04-30 18:18:04 +0000",
       "minecraft:dark_forest": "2025-04-30 18:29:56 +0000",
       "minecraft:mangrove_swamp": "2025-05-02 04:38:34 +0000",
@@ -1685,9 +1687,15 @@
       "minecraft:river": "2025-04-30 18:18:05 +0000",
       "minecraft:lukewarm_ocean": "2025-04-30 18:48:56 +0000",
       "minecraft:stony_shore": "2025-04-30 18:22:29 +0000",
+      "minecraft:grove": "2025-05-02 06:39:25 +0000",
       "minecraft:forest": "2025-04-30 17:42:19 +0000",
+      "minecraft:lush_caves": "2025-05-02 06:40:43 +0000",
+      "minecraft:windswept_forest": "2025-05-02 06:01:25 +0000",
       "minecraft:ocean": "2025-04-30 19:51:19 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-02 06:13:14 +0000",
+      "minecraft:frozen_peaks": "2025-05-02 06:29:30 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-30 17:44:44 +0000",
+      "minecraft:deep_dark": "2025-05-02 06:48:19 +0000",
       "minecraft:meadow": "2025-05-01 20:35:56 +0000",
       "minecraft:savanna": "2025-04-30 18:49:21 +0000",
       "minecraft:plains": "2025-04-30 19:47:12 +0000"
@@ -2779,6 +2787,7 @@
       "golden_apple": "2025-05-01 22:29:40 +0000",
       "dried_kelp": "2025-04-30 19:25:22 +0000",
       "melon_slice": "2025-04-30 18:26:51 +0000",
+      "golden_carrot": "2025-05-02 07:09:10 +0000",
       "carrot": "2025-05-01 23:03:49 +0000"
     },
     "done": false
@@ -2795,12 +2804,16 @@
       "highland": "2025-05-02 00:34:40 +0000",
       "jacaranda_glade": "2025-05-02 00:33:25 +0000",
       "marsh": "2025-05-02 00:32:57 +0000",
+      "jade_cliffs": "2025-05-02 06:24:27 +0000",
       "mystic_grove": "2025-05-01 20:16:23 +0000",
       "old_growth_woodland": "2025-05-01 02:24:00 +0000",
+      "maple_woods": "2025-05-02 06:13:48 +0000",
       "crystalline_chasm": "2025-05-01 21:05:41 +0000",
       "withered_abyss": "2025-05-01 21:09:26 +0000",
       "orchard": "2025-05-01 19:48:29 +0000",
+      "field": "2025-05-02 06:13:26 +0000",
       "overgrown_greens": "2025-04-30 18:20:07 +0000",
+      "moor": "2025-05-02 06:19:18 +0000",
       "mediterranean_forest": "2025-04-30 18:49:15 +0000",
       "dryland": "2025-05-02 02:58:49 +0000",
       "wasteland": "2025-05-02 02:58:26 +0000",
@@ -4261,15 +4274,82 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
-      "crying_obsidian": "2025-05-02 05:33:12 +0000"
+      "fighting_nightmares_0": "2025-05-02 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-05-02 04:13:16 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
     "criteria": {
       "has_gunpowder": "2025-05-02 04:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-02 04:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-02 04:21:25 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-05-02 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-05-02 04:33:27 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-05-02 04:37:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_5": "2025-05-02 04:48:33 +0000",
+      "trickor_treat_6": "2025-05-02 04:49:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-05-02 04:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-05-02 05:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-02 05:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-02 05:33:12 +0000"
     },
     "done": true
   },
@@ -4285,31 +4365,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
-    "criteria": {
-      "has_wildflower": "2025-05-02 04:13:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-05-02 04:48:44 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:trickor_treat": {
-    "criteria": {
-      "trickor_treat_5": "2025-05-02 04:48:33 +0000",
-      "trickor_treat_6": "2025-05-02 04:49:55 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2025-05-02 04:06:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-02 05:33:44 +0000"
@@ -4319,12 +4374,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-02 05:33:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-05-02 05:35:57 +0000"
     },
     "done": true
   },
@@ -4340,45 +4389,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-05-02 05:35:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-02 05:33:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-05-02 05:35:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-02 05:33:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-05-02 05:35:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-05-02 05:35:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-05-02 05:35:57 +0000"
     },
     "done": true
   },
@@ -4406,41 +4425,11 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:pumpkin_sir": {
-    "criteria": {
-      "pumpkin_sir_0": "2025-05-02 04:33:26 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:good_demoman": {
-    "criteria": {
-      "good_demoman_0": "2025-05-02 04:37:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-05-02 05:34:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-05-02 05:33:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-05-02 05:33:44 +0000"
     },
     "done": true
-  },
-  "born_in_chaos_v1:squireofthe_dark_lord": {
-    "criteria": {
-      "squireofthe_dark_lord_6": "2025-05-02 04:33:27 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
@@ -4466,24 +4455,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-05-02 04:21:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/fast_travel": {
-    "criteria": {
-      "travelled": "2025-05-02 05:13:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-05-02 04:21:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-02 05:33:44 +0000"
@@ -4493,6 +4464,108 @@
   "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-02 05:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-05-02 05:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-02 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-02 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-02 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-02 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-02 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-02 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-05-02 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-02 06:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-05-02 06:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-02 06:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-02 06:38:40 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-05-02 06:47:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-05-02 06:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-02 07:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-02 06:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-02 06:53:27 +0000"
     },
     "done": true
   },

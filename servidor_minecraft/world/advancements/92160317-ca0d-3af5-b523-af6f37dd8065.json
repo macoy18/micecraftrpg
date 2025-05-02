@@ -1632,6 +1632,7 @@
       "minecraft:deep_cold_ocean": "2025-05-02 03:34:15 +0000",
       "minecraft:jungle": "2025-04-30 20:41:32 +0000",
       "minecraft:ocean": "2025-05-02 03:27:23 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-02 06:32:19 +0000",
       "minecraft:windswept_savanna": "2025-05-02 03:42:56 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-02 03:20:52 +0000",
       "minecraft:flower_forest": "2025-04-29 23:35:03 +0000",
@@ -2105,6 +2106,7 @@
       "cooked_mutton": "2025-04-29 23:36:58 +0000",
       "cooked_beef": "2025-04-30 00:01:32 +0000",
       "bread": "2025-04-30 22:15:04 +0000",
+      "golden_apple": "2025-05-02 06:16:37 +0000",
       "rotten_flesh": "2025-04-29 23:43:52 +0000",
       "salmon": "2025-04-30 19:47:11 +0000",
       "melon_slice": "2025-04-30 20:57:09 +0000",
@@ -2272,6 +2274,7 @@
       "scrubland": "2025-05-02 04:51:38 +0000",
       "erupting_inferno": "2025-04-30 22:23:59 +0000",
       "floodplain": "2025-05-02 03:15:04 +0000",
+      "highland": "2025-05-02 06:20:24 +0000",
       "jacaranda_glade": "2025-05-02 04:57:39 +0000",
       "jade_cliffs": "2025-04-30 23:20:03 +0000",
       "mystic_grove": "2025-04-30 00:56:13 +0000",
@@ -2292,6 +2295,7 @@
       "volcanic_plains": "2025-04-30 20:39:22 +0000",
       "lavender_field": "2025-04-29 23:38:48 +0000",
       "fir_clearing": "2025-05-02 04:08:02 +0000",
+      "pumpkin_patch": "2025-05-02 06:38:49 +0000",
       "prairie": "2025-04-29 23:37:01 +0000",
       "grassland": "2025-04-30 23:12:38 +0000",
       "glowing_grotto": "2025-04-30 19:01:05 +0000",
@@ -2360,6 +2364,7 @@
       "minecraft:phantom": "2025-05-02 04:37:28 +0000",
       "minecraft:witch": "2025-05-02 03:44:59 +0000",
       "minecraft:wither_skeleton": "2025-04-30 22:33:51 +0000",
+      "minecraft:husk": "2025-05-02 07:10:08 +0000",
       "minecraft:cave_spider": "2025-05-02 05:17:37 +0000",
       "minecraft:enderman": "2025-04-30 00:30:09 +0000",
       "minecraft:stray": "2025-05-02 05:18:43 +0000",
@@ -4722,6 +4727,66 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-05-02 04:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-02 04:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-02 04:52:58 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-05-02 05:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-05-02 05:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-02 05:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-02 05:20:14 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-05-02 05:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-02 05:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 05:23:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-02 05:34:46 +0000"
@@ -4737,18 +4802,6 @@
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-02 05:34:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
-    "criteria": {
-      "has_yellow_terracotta": "2025-05-02 04:52:58 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2025-05-02 05:36:56 +0000"
     },
     "done": true
   },
@@ -4806,18 +4859,6 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:dismantledto_bones": {
-    "criteria": {
-      "dismantledto_bones_0": "2025-05-02 05:21:47 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:warp_scroll": {
-    "criteria": {
-      "has_warp_scroll": "2025-05-02 05:07:25 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-02 05:34:46 +0000"
@@ -4830,27 +4871,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2025-05-02 04:52:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2025-05-02 04:52:58 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-05-02 05:34:46 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2025-05-02 05:36:56 +0000"
     },
     "done": true
   },
@@ -4884,12 +4907,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-05-02 05:23:34 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-02 05:34:46 +0000"
@@ -4908,21 +4925,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2025-05-02 05:36:56 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-02 05:34:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-05-02 05:14:33 +0000"
     },
     "done": true
   },
@@ -4938,21 +4943,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-05-02 05:23:34 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-02 05:34:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-05-02 05:20:14 +0000"
     },
     "done": true
   },
@@ -4998,9 +4991,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
     "criteria": {
-      "has_iron_block": "2025-05-02 05:20:14 +0000"
+      "has_smelting_upgrade": "2025-05-02 05:36:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-05-02 05:36:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-05-02 05:36:56 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-05-02 06:16:49 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-05-02 06:17:34 +0000",
+      "trickor_treat_2": "2025-05-02 06:17:34 +0000",
+      "trickor_treat_3": "2025-05-02 06:17:34 +0000",
+      "trickor_treat_4": "2025-05-02 06:17:34 +0000",
+      "trickor_treat_5": "2025-05-02 06:17:34 +0000",
+      "trickor_treat_6": "2025-05-02 06:17:34 +0000",
+      "trickor_treat_7": "2025-05-02 06:17:34 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 06:37:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-05-02 06:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-05-02 07:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-05-02 07:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-02 07:07:16 +0000"
+    },
+    "done": true
+  },
+  "uniquedungeons:find_desert_dungeon": {
+    "criteria": {
+      "requirement": "2025-05-02 07:04:53 +0000"
     },
     "done": true
   },

@@ -593,3 +593,101 @@ com.google.gson.JsonSyntaxException: Missing entries
 [02May2025 05:47:20.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> EU
 [02May2025 05:47:23.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> no tenemos armadura ya
 [02May2025 05:47:33.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> TOMA
+[02May2025 05:49:38.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 has reached the goal [Pray to the Goddess]
+[02May2025 05:52:22.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ALO
+[02May2025 05:53:04.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> uy
+[02May2025 05:53:20.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> da lentitud
+[02May2025 05:53:36.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ammm
+[02May2025 05:53:48.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> looteaste
+[02May2025 05:54:33.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Macoy18: Set the time to 1000]
+[02May2025 05:54:44.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> fuidos o buscamos mas
+[02May2025 05:55:03.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> monos
+[02May2025 05:55:15.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> no encontre ni una
+[02May2025 05:57:01.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> a
+[02May2025 05:57:03.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> wen
+[02May2025 05:57:53.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5036ms or 100 ticks behind
+[02May2025 05:58:02.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> uff
+[02May2025 05:58:05.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> buena distancia
+[02May2025 05:58:13.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> daivlo
+[02May2025 05:58:39.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> oe ws?
+[02May2025 05:58:46.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> se
+[02May2025 05:59:11.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> epa
+[02May2025 05:59:13.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> roger
+[02May2025 05:59:19.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> q
+[02May2025 05:59:21.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> q si no somos amigos q nadie lo invito
+[02May2025 05:59:22.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> kajskdjakjsdkj
+[02May2025 06:05:00.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 has made the advancement [Cover Me with Diamonds]
+[02May2025 06:05:59.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> zzzzz
+[02May2025 06:06:00.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> zzzzz
+[02May2025 06:06:01.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> zzzzz
+[02May2025 06:06:37.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [Cover Me with Diamonds]
+[02May2025 06:07:33.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Macoy18: Set the time to 1000]
+[02May2025 06:07:37.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AdalSpider lost connection: Disconnected
+[02May2025 06:07:37.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
+[02May2025 06:07:37.983] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
+[02May2025 06:07:56.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AdalSpider[/127.201.109.144:46977] logged in with entity id 80235 at (2027.4328832758238, 66.0, 7844.151212910919)
+[02May2025 06:07:56.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider joined the game
+[02May2025 06:07:56.568] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AdalSpider (18)
+[02May2025 06:07:56.570] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AdalSpider
+[02May2025 06:13:35.463] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element born_in_chaos_v1:firewell took 0 ms
+[02May2025 06:18:22.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Macoy18: Set the time to 1000]
+[02May2025 06:21:20.117] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element ars_nouveau:stalker_wilden_den took 2367 ms
+[02May2025 06:21:20.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2347ms or 46 ticks behind
+[02May2025 06:21:20.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kristd17 moved too quickly! 9.52008227565534,0.8322033533667508,-3.6762642000867345
+[02May2025 06:21:20.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AdalSpider moved too quickly! -1.6888424136498088,-6.923883607113012,7.830510901532762
+[02May2025 06:23:52.644] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element ars_nouveau:stalker_wilden_den took 2 ms
+[02May2025 06:27:17.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kristd17 lost connection: Disconnected
+[02May2025 06:27:17.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 left the game
+[02May2025 06:27:17.034] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kristd17
+[02May2025 06:28:24.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Macoy18: Set the time to 1000]
+[02May2025 06:28:49.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1742, y=96, z=8890} BlockPos{x=1742, y=95, z=8888}
+[02May2025 06:28:49.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1742, y=96, z=8890} BlockPos{x=1742, y=95, z=8888}
+[02May2025 06:29:21.027] [ForkJoinPool.commonPool-worker-36/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[02May2025 06:29:21.045] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kristd17[/127.95.38.215:34719] logged in with entity id 94885 at (1639.699999988079, 151.0, 8677.300000011921)
+[02May2025 06:29:21.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 joined the game
+[02May2025 06:29:21.362] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kristd17 (18)
+[02May2025 06:29:21.363] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kristd17
+[02May2025 06:31:44.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuisN lost connection: Disconnected
+[02May2025 06:31:44.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN left the game
+[02May2025 06:31:44.892] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LuisN
+[02May2025 06:32:13.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuisN[/127.136.99.52:38399] logged in with entity id 97779 at (476.16157361590876, 64.0, 882.4484291736433)
+[02May2025 06:32:13.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN joined the game
+[02May2025 06:32:13.534] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LuisN (18)
+[02May2025 06:32:13.535] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LuisN
+[02May2025 06:36:28.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LuisN) moved wrongly! 0.27909371696591734
+[02May2025 06:36:28.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LuisN) moved wrongly! 0.27909371696591734
+[02May2025 06:36:28.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LuisN) moved wrongly! 0.27909371696591734
+[02May2025 06:36:28.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LuisN) moved wrongly! 0.27909371696591734
+[02May2025 06:38:09.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Macoy18: Set the time to 1000]
+[02May2025 06:44:32.818] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element uniquedungeons:desert_dungeon took 10267 ms
+[02May2025 06:44:32.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10248ms or 204 ticks behind
+[02May2025 06:45:37.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Macoy18: Teleported LuisN to Macoy18]
+[02May2025 06:47:59.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 has made the advancement [Deceived Hopes]
+[02May2025 06:48:09.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Macoy18: Set the time to 1000]
+[02May2025 06:48:51.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 has reached the goal [Exorcism]
+[02May2025 06:51:28.785] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 8 in "main" inventory handler
+[02May2025 06:58:49.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuisN lost connection: Disconnected
+[02May2025 06:58:49.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN left the game
+[02May2025 06:58:49.986] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LuisN
+[02May2025 06:59:02.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Macoy18: Set the time to 1000]
+[02May2025 06:59:28.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuisN[/127.136.99.52:59253] logged in with entity id 118196 at (2389.9273120786775, 71.0, 243.94589114157674)
+[02May2025 06:59:28.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN joined the game
+[02May2025 06:59:28.465] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LuisN (18)
+[02May2025 06:59:28.466] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LuisN
+[02May2025 07:02:08.653] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2939, y=69, z=79} BlockPos{x=2937, y=67, z=79}
+[02May2025 07:02:26.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3021, y=68, z=81} BlockPos{x=3022, y=66, z=81}
+[02May2025 07:02:57.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [Sneak 100]
+[02May2025 07:03:16.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 has made the advancement [Sneak 100]
+[02May2025 07:03:23.735] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=109, y=-40, z=-74}
+[02May2025 07:03:23.735] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=111, y=-40, z=-74}
+[02May2025 07:03:29.293] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=111, y=-40, z=-74}
+[02May2025 07:03:29.307] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=109, y=-40, z=-74}
+[02May2025 07:03:33.724] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=109, y=-40, z=-74}
+[02May2025 07:03:33.725] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=111, y=-40, z=-74}
+[02May2025 07:08:37.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 has made the advancement [Local Brewery]
+[02May2025 07:10:08.142] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Guardian'/121521, l='ServerLevel[world]', x=3505.43, y=47.00, z=42.54] died: Guardian was slain by LuisN using [Diamond Halberde]
+[02May2025 07:10:15.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN has made the advancement [Local Brewery]
+[02May2025 07:16:23.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1757, y=-46, z=8641} BlockPos{x=1758, y=-46, z=8640}
+[02May2025 07:16:23.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1757, y=-46, z=8641} BlockPos{x=1758, y=-46, z=8640}
+[02May2025 07:16:23.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1757, y=-46, z=8641} BlockPos{x=1758, y=-46, z=8640}
+[02May2025 07:18:36.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 has completed the challenge [It Spreads]

@@ -1676,6 +1676,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-30 18:36:58 +0000",
+      "minecraft:deep_ocean": "2025-05-02 06:49:18 +0000",
       "minecraft:sunflower_plains": "2025-04-30 19:26:33 +0000",
       "minecraft:birch_forest": "2025-05-01 05:54:12 +0000",
       "minecraft:windswept_hills": "2025-04-30 02:29:38 +0000",
@@ -1693,6 +1694,7 @@
       "minecraft:lush_caves": "2025-04-30 21:09:55 +0000",
       "minecraft:jungle": "2025-04-30 00:05:46 +0000",
       "minecraft:ocean": "2025-04-30 00:24:10 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-02 06:31:45 +0000",
       "minecraft:windswept_savanna": "2025-04-30 02:31:10 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-02 04:44:24 +0000",
       "minecraft:flower_forest": "2025-04-29 23:33:30 +0000",
@@ -2129,14 +2131,18 @@
       "coniferous_forest": "2025-04-30 18:05:39 +0000",
       "spider_nest": "2025-04-30 23:19:35 +0000",
       "redwood_forest": "2025-04-30 00:02:53 +0000",
+      "aspen_glade": "2025-05-02 06:47:51 +0000",
       "seasonal_forest": "2025-04-30 02:26:27 +0000",
       "pasture": "2025-04-29 23:33:22 +0000",
       "rocky_rainforest": "2025-04-30 00:13:23 +0000",
       "volcanic_plains": "2025-04-30 00:06:40 +0000",
       "lavender_field": "2025-04-29 23:33:08 +0000",
+      "fir_clearing": "2025-05-02 06:36:06 +0000",
+      "pumpkin_patch": "2025-05-02 06:38:46 +0000",
       "grassland": "2025-04-30 00:13:35 +0000",
       "prairie": "2025-04-30 20:20:51 +0000",
       "glowing_grotto": "2025-04-30 21:12:39 +0000",
+      "gravel_beach": "2025-05-02 06:34:53 +0000",
       "rainforest": "2025-04-30 00:04:05 +0000",
       "crag": "2025-04-30 00:23:24 +0000"
     },
@@ -2332,11 +2338,13 @@
     "criteria": {
       "cooked_porkchop": "2025-04-30 00:02:49 +0000",
       "chicken": "2025-04-30 20:27:32 +0000",
+      "honey_bottle": "2025-05-02 07:09:58 +0000",
       "cooked_beef": "2025-04-30 21:08:45 +0000",
       "beef": "2025-04-30 20:34:56 +0000",
       "apple": "2025-04-29 23:43:46 +0000",
       "cooked_cod": "2025-05-01 19:10:45 +0000",
       "bread": "2025-05-01 04:49:46 +0000",
+      "golden_apple": "2025-05-02 06:15:29 +0000",
       "glow_berries": "2025-04-30 21:47:45 +0000",
       "melon_slice": "2025-04-30 00:15:33 +0000",
       "cod": "2025-04-30 18:41:22 +0000"
@@ -2447,6 +2455,8 @@
       "minecraft:creeper": "2025-04-30 02:07:32 +0000",
       "minecraft:phantom": "2025-05-02 04:19:33 +0000",
       "minecraft:witch": "2025-04-30 19:55:48 +0000",
+      "minecraft:cave_spider": "2025-05-02 06:03:49 +0000",
+      "minecraft:stray": "2025-05-02 06:05:02 +0000",
       "minecraft:vex": "2025-05-02 05:19:13 +0000",
       "minecraft:zombie": "2025-04-30 00:12:53 +0000",
       "minecraft:zombie_villager": "2025-04-30 20:37:50 +0000"
@@ -5101,6 +5111,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-05-02 07:08:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-05-02 05:11:40 +0000"
@@ -5128,6 +5144,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 04:42:56 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-05-02 05:49:38 +0000"
     },
     "done": true
   },
@@ -5167,9 +5189,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-02 07:07:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 04:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-02 07:07:11 +0000"
     },
     "done": true
   },
@@ -5242,6 +5276,12 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-05-02 04:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-02 07:07:11 +0000"
     },
     "done": true
   },
