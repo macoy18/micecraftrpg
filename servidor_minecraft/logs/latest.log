@@ -8,3 +8,18 @@
 [02May2025 00:02:24.030] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AdalSpider
 [02May2025 00:12:53.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2838ms or 56 ticks behind
 [02May2025 00:15:17.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [Ice Bucket Challenge]
+[02May2025 00:24:50.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kristd17 lost connection: Disconnected
+[02May2025 00:24:50.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 left the game
+[02May2025 00:24:50.169] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kristd17
+[02May2025 00:25:48.471] [ForkJoinPool.commonPool-worker-102/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[02May2025 00:25:48.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kristd17[/127.95.38.215:32939] logged in with entity id 211139 at (2421.825414957293, 65.0, 2025.4598317486184)
+[02May2025 00:25:48.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 joined the game
+[02May2025 00:25:48.730] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kristd17 (18)
+[02May2025 00:25:48.730] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kristd17
+[02May2025 00:26:35.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AdalSpider lost connection: Disconnected
+[02May2025 00:26:35.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider left the game
+[02May2025 00:26:35.121] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
+[02May2025 00:28:58.428] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AdalSpider[/127.201.109.144:49797] logged in with entity id 212134 at (2408.699999988079, 63.0, 2030.5093643133516)
+[02May2025 00:28:58.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider joined the game
+[02May2025 00:28:59.027] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AdalSpider (18)
+[02May2025 00:28:59.027] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AdalSpider
