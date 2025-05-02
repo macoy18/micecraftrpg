@@ -4021,9 +4021,10 @@
       "minecraft:crimson_forest": "2025-05-01 22:07:58 +0000",
       "minecraft:nether_wastes": "2025-05-01 21:00:41 +0000",
       "minecraft:soul_sand_valley": "2025-05-01 21:52:02 +0000",
-      "minecraft:warped_forest": "2025-05-01 22:24:22 +0000"
+      "minecraft:warped_forest": "2025-05-01 22:24:22 +0000",
+      "minecraft:basalt_deltas": "2025-05-02 05:03:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
     "criteria": {
@@ -4279,7 +4280,8 @@
   },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
-      "trickor_treat_5": "2025-05-02 04:48:33 +0000"
+      "trickor_treat_5": "2025-05-02 04:48:33 +0000",
+      "trickor_treat_6": "2025-05-02 04:49:55 +0000"
     },
     "done": false
   },
