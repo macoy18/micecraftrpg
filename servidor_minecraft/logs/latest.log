@@ -763,3 +763,38 @@ com.google.gson.JsonSyntaxException: Missing entries
 [02May2025 07:51:20.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1609, y=-35, z=8715} BlockPos{x=1609, y=-35, z=8716}
 [02May2025 07:51:25.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1606, y=-33, z=8716} BlockPos{x=1606, y=-34, z=8716}
 [02May2025 07:51:25.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1606, y=-33, z=8717} BlockPos{x=1606, y=-34, z=8716}
+[02May2025 07:52:01.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1593, y=-32, z=8734} BlockPos{x=1593, y=-31, z=8735}
+[02May2025 07:52:37.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1596, y=-34, z=8724} BlockPos{x=1596, y=-35, z=8722}
+[02May2025 07:52:38.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1596, y=-34, z=8720} BlockPos{x=1596, y=-35, z=8720}
+[02May2025 07:52:41.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1602, y=-36, z=8715} BlockPos{x=1601, y=-37, z=8716}
+[02May2025 07:52:52.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1599, y=-34, z=8704} BlockPos{x=1599, y=-35, z=8704}
+[02May2025 07:53:03.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1615, y=-35, z=8684} BlockPos{x=1615, y=-35, z=8683}
+[02May2025 07:53:03.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1615, y=-35, z=8684} BlockPos{x=1615, y=-35, z=8683}
+[02May2025 07:53:03.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1615, y=-35, z=8684} BlockPos{x=1615, y=-35, z=8683}
+[02May2025 07:53:04.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1608, y=-38, z=8700} BlockPos{x=1607, y=-39, z=8700}
+[02May2025 07:53:26.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1614, y=-36, z=8685} BlockPos{x=1614, y=-37, z=8683}
+[02May2025 07:53:26.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1616, y=-36, z=8690} BlockPos{x=1616, y=-36, z=8688}
+[02May2025 07:53:26.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1616, y=-36, z=8691} BlockPos{x=1616, y=-36, z=8688}
+[02May2025 07:53:26.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1615, y=-37, z=8690} BlockPos{x=1616, y=-36, z=8688}
+[02May2025 07:53:26.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1615, y=-37, z=8691} BlockPos{x=1616, y=-36, z=8688}
+[02May2025 07:53:26.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1614, y=-37, z=8690} BlockPos{x=1616, y=-36, z=8688}
+[02May2025 07:58:09.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02May2025 07:58:09.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mrk tan betando el server<--[HERE]
+[02May2025 07:58:19.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02May2025 07:58:19.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desde aqui veo errores<--[HERE]
+[02May2025 07:58:43.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mrk van a perder el server
+[02May2025 07:58:50.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> q
+[02May2025 07:58:55.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] desde aqui veo errores
+[02May2025 07:59:37.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> como asi?
+[02May2025 07:59:46.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has made the advancement [Best Friends Forever]
+[02May2025 07:59:59.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider has completed the challenge [It Spreads]
+[02May2025 08:00:13.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] best friends forever
+[02May2025 08:00:43.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] weno voy a apagar la laptop
+[02May2025 08:00:52.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> tamos contra warden
+[02May2025 08:00:56.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> calmate
+[02May2025 08:00:56.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] se va a apagar en poco rato
+[02May2025 08:01:19.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02May2025 08:01:19.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si me dicen que estan contra el warden ahi si<--[HERE]
+[02May2025 08:01:29.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] asi si
+[02May2025 08:01:50.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] weno si van a pedir para tp no estoy
+[02May2025 08:01:56.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> dale

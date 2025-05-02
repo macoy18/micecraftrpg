@@ -4806,5 +4806,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-02 07:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-02 07:59:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
