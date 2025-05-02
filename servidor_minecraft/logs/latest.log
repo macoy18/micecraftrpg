@@ -104,3 +104,14 @@
 [02May2025 01:08:42.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 left the game
 [02May2025 01:08:42.768] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
 [02May2025 01:09:36.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] apagando
+[02May2025 01:09:44.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02May2025 01:09:44.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02May2025 01:09:44.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02May2025 01:09:44.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02May2025 01:09:44.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02May2025 01:09:44.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02May2025 01:09:44.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02May2025 01:09:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02May2025 01:09:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02May2025 01:09:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02May2025 01:09:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
