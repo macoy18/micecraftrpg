@@ -743,3 +743,23 @@ com.google.gson.JsonSyntaxException: Missing entries
 [02May2025 07:37:45.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> CUAL BB
 [02May2025 07:40:05.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> estas las tipo indi
 [02May2025 07:40:44.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ?
+[02May2025 07:47:37.583] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Macoy18 lost connection: Disconnected
+[02May2025 07:47:37.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 left the game
+[02May2025 07:47:37.583] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Macoy18
+[02May2025 07:48:09.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuisN lost connection: Disconnected
+[02May2025 07:48:09.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuisN left the game
+[02May2025 07:48:09.883] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LuisN
+[02May2025 07:48:46.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] el server cerrara en brebe
+[02May2025 07:48:52.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> no
+[02May2025 07:48:54.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> por
+[02May2025 07:49:03.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] porfavor corranse lo mas rrapido que puedan
+[02May2025 07:49:06.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> no
+[02May2025 07:49:08.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> deja prendido
+[02May2025 07:49:12.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> no
+[02May2025 07:49:14.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> apaga monitor y ya
+[02May2025 07:49:17.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> deja prendido vv
+[02May2025 07:49:23.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> tamos full ocupados
+[02May2025 07:49:24.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] nawebona mrk ya son las 4am anda a dormir
+[02May2025 07:51:20.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1609, y=-35, z=8715} BlockPos{x=1609, y=-35, z=8716}
+[02May2025 07:51:25.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1606, y=-33, z=8716} BlockPos{x=1606, y=-34, z=8716}
+[02May2025 07:51:25.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1606, y=-33, z=8717} BlockPos{x=1606, y=-34, z=8716}
