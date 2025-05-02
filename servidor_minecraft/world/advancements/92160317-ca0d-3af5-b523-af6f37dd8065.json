@@ -2360,7 +2360,10 @@
       "minecraft:phantom": "2025-05-02 04:37:28 +0000",
       "minecraft:witch": "2025-05-02 03:44:59 +0000",
       "minecraft:wither_skeleton": "2025-04-30 22:33:51 +0000",
+      "minecraft:cave_spider": "2025-05-02 05:17:37 +0000",
       "minecraft:enderman": "2025-04-30 00:30:09 +0000",
+      "minecraft:stray": "2025-05-02 05:18:43 +0000",
+      "minecraft:vex": "2025-05-02 05:18:56 +0000",
       "minecraft:zombie": "2025-04-29 23:43:06 +0000",
       "minecraft:zombie_villager": "2025-04-30 01:27:46 +0000"
     },
@@ -4725,6 +4728,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-05-02 05:21:47 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-05-02 05:07:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2025-05-02 04:52:58 +0000"
@@ -4734,6 +4749,36 @@
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-05-02 04:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-02 05:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-05-02 05:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 05:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-02 05:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-02 05:20:14 +0000"
     },
     "done": true
   },

@@ -2588,6 +2588,7 @@
       "minecraft:pillager": "2025-05-01 20:29:23 +0000",
       "minecraft:blaze": "2025-05-01 21:17:11 +0000",
       "minecraft:skeleton": "2025-04-30 01:10:51 +0000",
+      "minecraft:ghast": "2025-05-02 05:05:51 +0000",
       "minecraft:magma_cube": "2025-05-01 21:17:34 +0000",
       "minecraft:spider": "2025-04-30 18:24:01 +0000",
       "minecraft:creeper": "2025-04-30 18:29:34 +0000",
@@ -4692,6 +4693,12 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-02 04:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-05-02 05:13:19 +0000"
     },
     "done": true
   },
