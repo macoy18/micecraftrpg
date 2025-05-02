@@ -725,3 +725,21 @@ com.google.gson.JsonSyntaxException: Missing entries
 [02May2025 07:29:55.388] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AdalSpider
 [02May2025 07:30:44.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> macoy solo necesito un lugar con waystone
 [02May2025 07:30:56.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> nosotros igual
+[02May2025 07:33:05.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kristd17> y no se puede hacer tp a tu base?
+[02May2025 07:33:09.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Macoy18: Teleported LuisN to Macoy18]
+[02May2025 07:35:00.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kristd17 was slain by Baby Skeleton
+[02May2025 07:35:56.958] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Guardian Warrior'/133671, l='ServerLevel[world]', x=3471.78, y=-19.00, z=82.40] died: Guardian Warrior was slain by LuisN using [Diamond Halberde]
+[02May2025 07:36:02.458] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Guardian Warrior'/133796, l='ServerLevel[world]', x=3472.07, y=-18.98, z=82.49] died: Guardian Warrior was slain by LuisN using [Diamond Halberde]
+[02May2025 07:36:03.371] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Guardian Warrior'/133772, l='ServerLevel[world]', x=3471.49, y=-20.00, z=82.70] died: Guardian Warrior was slain by LuisN using [Diamond Halberde]
+[02May2025 07:36:06.583] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Guardian'/133555, l='ServerLevel[world]', x=3470.65, y=-19.97, z=81.72] died: Guardian was shot by Macoy18
+[02May2025 07:36:40.045] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AdalSpider[/127.201.109.144:56879] logged in with entity id 134453 at (1604.4165627969203, -43.0, 8676.908403768177)
+[02May2025 07:36:40.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AdalSpider joined the game
+[02May2025 07:36:40.262] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AdalSpider (18)
+[02May2025 07:36:40.262] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AdalSpider
+[02May2025 07:37:05.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> adal cuandose acaban las dungeons estas
+[02May2025 07:37:14.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> DESIERTO?
+[02May2025 07:37:34.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Macoy18 has reached the goal [Postmortal]
+[02May2025 07:37:43.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> A
+[02May2025 07:37:45.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> CUAL BB
+[02May2025 07:40:05.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Macoy18> estas las tipo indi
+[02May2025 07:40:44.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AdalSpider> ?
